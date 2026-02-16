@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Consider the following pairs:\n1. Nokrek Biosphere Reserve : Garo Hills\n2. Logtak (Loktak) Lake : Barail Range\n3. Namdapha National Park : Dafla Hills\nWhich of the above pairs is/are correctly matched?",
+    "options": [
+      "None",
+      "2 and 3 only",
+      "1,2 and 3 only",
+      "1 only"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 2,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Which one among the following industries is the maximum consumer of water in India?",
+    "options": [
+      "Engineering",
+      "Paper and pulp",
+      "Textiles",
+      "Thermal power"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 3,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Consider the following\n1. Star tortoise\n2. Monitor lizard\n3. Pygmy Hog\n4. Spider monkey\nWhich of the above found in India?",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2,3 and 4"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 4,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Contour bunding is a method of soil conservation used in",
+    "options": [
+      "Desert margins, liable to strong wind action",
+      "Low flat plains, close to stream courses, liable to flooding",
+      "Scrublands, liable to spread of weed growth",
+      "None of the above"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 5,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Consider the following fauna of India:\n1. Gharial\n2. Leatherback turtle\n3. Swamp deer\nWhich of the above is/are endangered?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3 only",
+      "None"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 6,
+    "topic": "Protected Areas",
+    "year": 2013,
+    "question": "Consider the following pairs about parks and rivers passing through them:\n1. Corbett National Park: Ganga\n2. Kaziranga National Park: Manas\n3. Silent Valley National Park: Kaveri\nWhich of the above pairs is/are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "None"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 7,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Consider the following organisms:\n1. Agaricus\n2. Nostoc\n3. Spirogyra\nWhich of the above is/are used as biofertilizer/biofertilizers?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 8,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity?",
+    "options": [
+      "Oceans, lakes, grasslands, mangroves",
+      "Mangroves, oceans, grasslands, lakes",
+      "Mangroves, grasslands, lakes, oceans",
+      "Oceans, mangroves, lakes, grasslands"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 9,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "In which of the following States is lion-tailed macaque found in its natural habitat?\n1. Tamil Nadu\n2. Kerala\n3. Karnataka\n4. Andhra Pradesh\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1, 2 and 3 only",
+      "2 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 10,
+    "topic": "Pollution & Degradation",
+    "year": 2013,
+    "question": "Photochemical smog is a resultant of the reaction among -",
+    "options": [
+      "NO2, O3 and peroxyacetyl nitrate in the presence of sunlight",
+      "CO, O2 and peroxyacetyl nitrate in the presence of sunlight",
+      "CO, CO2 and NO2 at low temperature",
+      "High concentration of NO2, O3 and CO in the evening"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 11,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "With reference to the food chains in ecosystems, which of the following kinds of an organism is/are known as decomposer organism/organisms?\n1. Virus\n2. Fungi\n3. Bacteria\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 12,
+    "topic": "Pollution & Degradation",
+    "year": 2013,
+    "question": "Which of the following can be found as pollutants in the drinking water in some parts of India?\n1. Arsenic\n2. Sorbitol\n3. Fluoride\n4. Formaldehyde\n5. Uranium\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 and 3 only",
+      "2, 4 and 5 only",
+      "1, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 13,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Which of the following leaf modifications occurs/occur in desert areas to inhibit water loss?\n1. Hard and waxy leaves\n2. Tiny leaves or no leaves\n3. Thorns instead of leaves\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 14,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Which of the following adds/add nitrogen to the soil?\n1. Excretion of urea by animals\n2. Burning of coal by man\n3. Death of vegetation\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 15,
+    "topic": "Pollution & Degradation",
+    "year": 2013,
+    "question": "Acid rain is caused by the pollution of the environment by -",
+    "options": [
+      "Carbon dioxide and nitrogen",
+      "Carbon monoxide and carbon dioxide",
+      "Ozone and carbon dioxide",
+      "Nitrous oxide and sulphur dioxide"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 16,
+    "topic": "Pollution & Degradation",
+    "year": 2013,
+    "question": "Due to improper/indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?\n1. Beryllium\n2. Cadmium\n3. Chromium\n4. Heptachlor\n5. Mercury\n6. Lead\n7. Plutonium\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1, 3, 4, 6 and 7 only",
+      "1, 2, 3, 5 and 6 only",
+      "2, 4, 5 and 7 only",
+      "1, 2, 3, 4, 5, 6 and 7"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 17,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "In the grasslands, trees do not replace the grasses as a part of an ecological succession because of",
+    "options": [
+      "Insects and fungi",
+      "Limited sunlight and the paucity of nutrients",
+      "Water limits and fire",
+      "None of the above"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 18,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "Which one of the following terms describes not only the physical space occupied by an organism but also its functional role in the community of organisms?",
+    "options": [
+      "Ecotone",
+      "Ecological niche",
+      "Habitat",
+      "Home range"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 19,
+    "topic": "Ecosystems",
+    "year": 2013,
+    "question": "With reference to food chains in ecosystems, consider the following statements :\n1. A food chain illustrates the order in which a chain of organisms feeds upon each other.\n2. Food chains are found within the populations of a species.\n3. A food chain illustrates the numbers of each organism which are eaten by others.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 20,
+    "topic": "International Conventions & Treaties",
+    "year": 2014,
+    "question": "With reference to a conservation organization called Wetlands International, which of the following statements is/are correct?\n1. It is an intergovernmental organization formed by the countries which are signatories to the Ramsar Convention.\n2. It works at the field level to develop and mobilize knowledge, and use the practical experience to advocate for better policies.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 21,
+    "topic": "Acts, Policies, and Institutions",
+    "year": 2014,
+    "question": "With reference to Bombay Natural History Society (BNHS), consider the following statements :\n1. It is an autonomous organization under the Ministry of Environment and Forests.\n2. It strives to conserve nature through action-based research, education and public awareness.\n3. It organizes and conducts nature trails and camps for the general public.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 22,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Which of the following have coral reefs?\n1. Andaman and Nicobar Islands\n2. Gulf of Kutch\n3. Gulf of Mannar\n4. Sunderbans\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 23,
+    "topic": "Protected Areas",
+    "year": 2014,
+    "question": "Consider the following pairs\n1. Harike Wetlands : Confluence of Beas and Satluj/Sutlej\n2. Keoladeo Ghana National Park : Confluence of Banas and Chambal\n3. Kolleru Lake : Confluence of Musi and Krishna\nWhich of the above pairs is/are correctly matched?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 24,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Every year, a month-long ecologically important campaign/festival is held during which certain communities/tribes plant saplings of fruit-bearing trees. Which of the following are such communities/tribes?",
+    "options": [
+      "Bhutia and Lepcha",
+      "Gond and Korku",
+      "lrula and Toda",
+      "Sahariya and Agariya"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 25,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?\n1. They are highly resistant to degradation in the environment.\n2. They are able to accumulate in humans and animals.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 26,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "With reference to ‘Eco-Sensitive Zones’, which of the following statements is/are correct?\n1. Eco-Sensitive Zones are the areas that are declared under the Wildlife (Protection) Act, 1972.\n2. The purpose of the declaration of Eco-Sensitive Zones is to prohibit all kinds of human activities, in those zones except agriculture.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 27,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "What are the benefits of implementing the ‘Integrated Watershed Development Programme’?\n1. Prevention of soil runoff\n2. Linking the country’s perennial rivers with seasonal rivers\n3. Rainwater harvesting and recharge of the groundwater table\n4. Regeneration of natural vegetation\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 28,
+    "topic": "Climate Change",
+    "year": 2014,
+    "question": "Which of the following are some important pollutants released by the steel industry in India?\n1. Oxides of sulphur\n2. Oxides of nitrogen\n3. Carbon monoxide\n4. Carbon dioxide\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1,2, 3 and 4"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 29,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Which one of the following is the correct sequence of a food chain?",
+    "options": [
+      "Diatoms-Crustaceans-Herrings",
+      "Crustaceans-Diatoms-Herrings",
+      "Diatoms-Herrings-Crustaceans",
+      "Crustaceans-Herrings-Diatoms"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 30,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "The most important strategy for the conservation of biodiversity together with traditional human life is the establishment of",
+    "options": [
+      "biosphere reserves",
+      "botanical gardens",
+      "national parks",
+      "wildlife sanctuaries"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 31,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Consider the following international agreements:\n1. The International Treaty on Plant Genetic Resources for Food and Agriculture\n2. The United Nations Convention to Combat Desertification\n3. The World Heritage Convention\nWhich of the above has/have a bearing on the biodiversity?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 32,
+    "topic": "International Conventions & Treaties",
+    "year": 2014,
+    "question": "If a wetland of international importance is brought under the ‘Montreux Record’, what does it imply?",
+    "options": [
+      "Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference",
+      "The country in which the wetland is located should enact a law to prohibit any human activity within",
+      "The survival of the wetland depends on the cultural practices and traditions of certain communities living in its",
+      "It is given the status of ‘World Heritage Site’"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 33,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why?\n1. They can accumulate in the environment, and contaminate water and soil.\n2. They can enter food chains.\n3. They can trigger the production of free radicals.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 34,
+    "topic": "International Conventions & Treaties",
+    "year": 2014,
+    "question": "What is the significance of a practical approach to sugarcane production known as ‘Sustainable Sugarcane Initiative’?\n1. Seed cost is very low in this compared to the conventional method of cultivation.\n2. Drip irrigation can be practised very effectively in this.\n3. There is no application of chemical/ inorganic fertilizers at all in this.\n4. The scope for intercropping is more in this compared to the conventional method of cultivation.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 35,
+    "topic": "Climate Change",
+    "year": 2014,
+    "question": "With reference to technologies for solar power production, consider the following statements:\n1. ‘Photovoltaics’ is a technology that generates electricity by direct conversion of light into electricity, while ‘Solar Thermal’ is a technology that utilizes the Sun’s rays to generate heat which is further used in the electricity generation process.\n2. Photovoltaics generates Alternating Current (AC), while Solar Thermal generates Direct Current (DC).\n3. India has a manufacturing base for Solar Thermal technology, but not for Photovoltaics.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 36,
+    "topic": "Acts, Policies, and Institutions",
+    "year": 2014,
+    "question": "Consider the following statements:\n1. Animal Welfare Board of India is established under the Environment (Protection) Act, 1986.\n2. National Tiger Conservation Authority is a statutory body.\n3. National Ganga River Basin Authority is chaired by the Prime Minister.\nWhich of the statements given above is/ are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 37,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "The scientific view is that the increase in global temperature should not exceed 2 °C above the pre-industrial level. If the global temperature increases beyond 3°C above the pre-industrial level, what can be its possible impact/impacts on the world?\n1. Terrestrial biosphere tends toward a net carbon source\n2. Widespread coral mortality will occur.\n3. All the global wetlands will permanently disappear.\n4. Cultivation of cereals will not be possible anywhere in the world.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 38,
+    "topic": "Climate Change",
+    "year": 2014,
+    "question": "Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth?\n1. Volcanic action\n2. Respiration\n3. Photosynthesis\n4. The decay of organic matter\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 39,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "If you walk through the countryside, you are likely to see some birds stalking alongside the cattle to seize the insects, disturbed by their movement through grasses, Which of the following is/are such bird/birds?\n1. Painted Stork\n2. Common Myna\n3. Black-necked Crane\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 40,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of",
+    "options": [
+      "algae and bacteria",
+      "algae and fungi",
+      "bacteria and fungi",
+      "Fungi and mosses"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 41,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "With reference to ‘Global Environment Facility’, which of the following statements is/are correct",
+    "options": [
+      "It serves as financial mechanism for 'Convention on biological diversity' and 'United Nations Framework Convention on Climate Change'",
+      "It undertakes scientific research on environmental issues at the global level",
+      "It is an agency under the OECD to facilitate the transfer of technology and funds to underdeveloped countries",
+      "Both a and b"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 42,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?\n1. Construction of dams and barrages on rivers\n2. Increase in the population of crocodiles in rivers\n3. Getting trapped in fishing nets accidentally\n4. Use of synthetic fertilizers and other agricultural chemicals in crop-fields in the vicinity of rivers\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 43,
+    "topic": "Climate Change",
+    "year": 2014,
+    "question": "Consider the following statements regarding ‘Earth Hour’:\n1. It is an initiative of UNEP and UNESCO.\n2. It is a movement in which the participants switch off the lights for one hour on a certain day every year.\n3. It is a movement to raise awareness about climate change and the need to save the planet.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 44,
+    "topic": "Pollution & Degradation",
+    "year": 2014,
+    "question": "In India, the problem of soil erosion is associated with which of the following?\n1. Terrace cultivation\n2. Deforestation\n3. Tropical climate\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 45,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "Consider the following statements:\n1. Maize can be used for the production of starch.\n2. Oil extracted from maize can be a feedstock for biodiesel.\n3. Alcoholic beverages can be produced by using maize.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 46,
+    "topic": "Ecosystems",
+    "year": 2014,
+    "question": "With reference to the Neem tree, consider the following statements:\n1. Neem oil can be used as a pesticide to control the proliferation of some species of insects and mites.\n2. Neem seeds are used in the manufacture of biofuels and hospital detergents.\n3. Neem oil has applications in the pharmaceutical industry.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 47,
+    "topic": "Ecosystems",
+    "year": 2015,
+    "question": "Which one of the following is the best description of the term \"ecosystem\"?",
+    "options": [
+      "A community of organisms interacting with one another",
+      "That part of the Earth which is inhabited by living organisms",
+      "A community of organisms together with the environment in which they live",
+      "The flora and fauna of a geographical area"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 48,
+    "topic": "Biodiversity",
+    "year": 2015,
+    "question": "With reference to \"dugong\", a mammal found in India, which of the following statements is/are correct ?\n1. It is a herbivorous marine animal.\n2. It is found along the entire coast of India.\n3. It is given legal protection under Schedule I of the Wildlife (Protection) Act, \n1972. \nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 49,
+    "topic": "Biodiversity",
+    "year": 2015,
+    "question": "Which one of the following is the national aquatic animal of India ?",
+    "options": [
+      "Saltwater crocodile",
+      "Olive ridley turtle",
+      "Gangetic dolphin",
+      "Gharial"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 50,
+    "topic": "Protected Areas",
+    "year": 2015,
+    "question": "Which of the following National Parks is unique in being a swamp with floating vegetation that supports a rich biodiversity?",
+    "options": [
+      "Bhitarkanika National Park",
+      "Keibul Lamjao National Park",
+      "Keoladeo Ghana National Park",
+      "Sultanpur National Park"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 51,
+    "topic": "Protected Areas",
+    "year": 2015,
+    "question": "Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic?",
+    "options": [
+      "Khangchendzonga National Park",
+      "Nandadevi National Park",
+      "Neora Valley National Park",
+      "Namdapha National Park"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 52,
+    "topic": "Conventions and Organizations",
+    "year": 2015,
+    "question": "With reference to the International Union for Conservation of Nature and Natural Resource (IUCN) and the Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES), which of the following statements is/are correct ?\n1. IUCN is an organ of the United Nations and CITES is an international agreement between governments.\n2. IUCN runs thousands of field projects around the world to better manage natural environments.\n3. CITES is legally binding on the States that have joined it, but this Conventional does not take the place of national laws.\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 53,
+    "topic": "Conventions and Organizations",
+    "year": 2015,
+    "question": "What is the Rio+20 Conference, often mentioned in the news?",
+    "options": [
+      "It is the United Nations Conference on Sustainable Development",
+      "It is a Ministerial Meeting of the World Trade Organization",
+      "It is a Conference of the Inter Government Panel on Climate Change.",
+      "It is a Conference of the Member Countries of the Convention on Biological Diversity."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 54,
+    "topic": "Conventions and Organizations",
+    "year": 2015,
+    "question": "With reference to \"Forest Carbon Partnership Facility\", which of the following statements is/are correct?\n1. It is a global partnership of governments, businesses, civil society and indigenous peoples.\n2. It provides financial aid to universities, individual scientists and institutions involved in scientific forestry research to develop eco-friendly and climate adaptation technologies for sustainable forest management.\n3. It assists the countries in their \"REDD+ (Reducing Emissions from Deforestation +)\" efforts by providing them which financial and technical assistance.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 55,
+    "topic": "Conventions and Organizations",
+    "year": 2015,
+    "question": "With reference to an organization known as \"BirdLife International\", which of the following statements is/are correct?\n1. It is a Global Partnership of Conservation Organizations.\n2. The concept of \"biodiversity hotspots\" originated from this organization.\n3. It identifies the sites known/referred to as \"Important Bird and Biodiversity Areas\".\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 56,
+    "topic": "Conventions and Organizations",
+    "year": 2015,
+    "question": "With reference to the Agreement at the UNFCCC Meeting in Paris in 2015, which of the following statements is/are correct?\n1. The Agreement was signed by all the member countries of the UN and it will go into effect in \n2017. 2.\nThe Agreement aims to limit the greenhouse gas emissions so that the rise in average global temperature by the end of this century does not exceed 2oC or even 1.50C above pre-industrial levels.\n3. Developed countries acknowledged their historical responsibility in global warming and committed to donate $ 1000 billion a year from 2020 to help developing countries to cope with climate change.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 57,
+    "topic": "Laws and Policies",
+    "year": 2015,
+    "question": "Which of the following statements regarding \"Green Climate Fund\" is/are correct ?\n1. It is intended to assist the developing countries in adaptation and mitigation practices to counter climate change.\n2. It is founded under the aegis of UNEP, OECD, Asian Development Bank and World Bank.\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 58,
+    "topic": "Laws and Policies",
+    "year": 2015,
+    "question": "BioCarbon Fund Initiative for Sustainable Forest Landscapes\" is managed by the",
+    "options": [
+      "Asian Development Bank",
+      "International Monetary Fund",
+      "United Nations Environment Programme",
+      "World Bank"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 59,
+    "topic": "Laws and Policies",
+    "year": 2015,
+    "question": "The Genetic Engineering Appraisal Committee is constituted under the",
+    "options": [
+      "Food Safety and Standards Act, 2006",
+      "Geographical Indications of Goods (Registration and Protection) Act, 1999",
+      "Environment (Protection) Act, 1986",
+      "Wildlife (Protection) Act, 1972"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 60,
+    "topic": "Laws and Policies",
+    "year": 2015,
+    "question": "With reference to bio-toilets used by the Indian Railways, consider the following statements:\n1. The decomposition of human waste in the bio-toilets in initiated by a fungal inoculum.\n2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 61,
+    "topic": "Forests and Forest Laws",
+    "year": 2015,
+    "question": "Which one of the following regions of India has a combination of mangrove forest, evergreen forest and deciduous forest ?",
+    "options": [
+      "North Coastal Andhra Pradesh",
+      "South-West Bengal",
+      "Southern Saurashtra",
+      "Andaman and Nicobar Islands"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 62,
+    "topic": "Climate Change",
+    "year": 2015,
+    "question": "Which one of the following is associated with the issue of control and phasing out of the use of ozone-depleting substances?",
+    "options": [
+      "Bretton Woods Conference",
+      "Montreal Protocol",
+      "Kyoto Protocol",
+      "Nagoya Protocol"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 63,
+    "topic": "Agriculture",
+    "year": 2015,
+    "question": "What can be the impact of excessive/inappropriate use of nitrogenous fertilizers in agriculture ?\n1. Proliferation of nitrogen-fixing microorganisms in soil can occur.\n2. Increase in the acidity of soil can take place.\n3. Leaching of nitrate to the ground water can occur.\nSelect the correct answer using the codes given below.",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 64,
+    "topic": "Biodiversity",
+    "year": 2016,
+    "question": "In which of the following regions of India are you most likely to come across the \"Great Indian Hornbill\" in its natural habitat?",
+    "options": [
+      "Sand deserts of northwest India",
+      "Higher Himalayas of Jammu and Kashmir",
+      "Salt marshes of western Gujarat",
+      "Western Ghats"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 65,
+    "topic": "Biodiversity",
+    "year": 2016,
+    "question": "What is/are unique about \"Kharai camel\", a breed found in India?\n1. It is capable of swimming up to three kilometres in seawater.\n2. It survives by grazing on mangroves.\n3. It lives in the wild and cannot be domesticated.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 66,
+    "topic": "Biodiversity",
+    "year": 2016,
+    "question": "With reference to \"Red Sanders\", sometimes seen in the news, consider the following statements:\n1. It is a tree species found in a part of South India.\n2. It is one of the most important trees in the tropical rain forest areas of South India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 67,
+    "topic": "Conventions and Organizations",
+    "year": 2016,
+    "question": "Consider the following statements:\n1. The Sustainable Development Goals were first proposed in 1972 by a global think tank called the \"Club of Rome\".\n2. The Sustainable Development Goals have to be achieved by \n2030. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 68,
+    "topic": "Conventions and Organizations",
+    "year": 2016,
+    "question": "The term \"Intended Nationally Determined Contributions\" is sometimes seen in the news in the context of",
+    "options": [
+      "pledges made by the European countries to rehabilitate refugees from the war-affected Middle East",
+      "plan of action outlined by the countries of the world to combat climate change",
+      "capital contributed by the member countries in the establishment of Asian Infrastructure Investment Bank",
+      "plan of action outlined by the countries of the world regarding Sustainable Development Goals"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 69,
+    "topic": "Conventions and Organizations",
+    "year": 2016,
+    "question": "What is/are the importance/importances of the \"United Convention to Combat Desertification\"?\n1. It aims to promote effective action through innovative national programmes and supportive international partnerships \n2. It has a special/particular focus on South Asia and North Africa regions, and its Secretariat facilitates the allocation of major portion of financial resources to these regions.\n3. It is committed to bottom-up approach, encouraging the participation of local people in combating the desertification.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 70,
+    "topic": "Conventions and Organizations",
+    "year": 2016,
+    "question": "Consider the following pairs:\nTerms sometimes seen in the news Their origin \n1. Annex-I Countries :\nCartagena Protocol \n2. Certified Emissions Reductions :\nNagoya Protocol \n3. Clean Development Mechanisms :\nKyoto Protocol Which of the pairs given above is/are corectly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 71,
+    "topic": "Conventions and Organizations",
+    "year": 2016,
+    "question": "With reference to an initiative called \"The Economics of Ecosystems and Biodiversity (TEEB)\", which of the following statements is/are correct?\n1. It is an initiative hosted by UNEP, IMF and World Economic Forum.\n2. It is a global initiative that focuses on drawing attention to the economic benefits of biodiversity.\n3. It presents an approach that can help decision-makers recognize, demonstrate and capture the value of ecosystems and biodiversity.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 72,
+    "topic": "Conventions and Organizations",
+    "year": 2016,
+    "question": "Which of the following statements is/are correct?\nProper design and effective implementation of UN-REDD+ Programme can significantly contribute to \n1. protection of biodiversity \n2. resilience of forest ecosystems \n3. poverty reduction \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 73,
+    "topic": "Conventions and Organizations",
+    "year": 2016,
+    "question": "With reference to \"Agenda 21\", sometimes seen in the news, consider the following statements:\n1. It is a global action plan for sustainable development.\n2. It originated in the World Summit on Sustainable Development held in Johannesburg in \n2002. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 74,
+    "topic": "Laws and Policies",
+    "year": 2016,
+    "question": "On which of the following can you find the Bureau of Energy Efficiency Star Label?\n1. Ceiling fans \n2. Electric geysers \n3. Tubular fluorescent lamps \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 75,
+    "topic": "Laws and Policies",
+    "year": 2016,
+    "question": "Which of the following best describes/ describe the aim of \"Green India Mission\" of the Government of India?\n1. Incorporating environmental benefits and costs into the Union and State Budgets thereby implementing the \"green accounting\" \n2. Launching the second green revolution to enhance agricultural output so as to ensure food security to one and all in the future \n3. Restoring and enhancing forest cover and responding to climate change by a combination of adaptation and mitigation measures \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 76,
+    "topic": "Laws and Policies",
+    "year": 2016,
+    "question": "Gadgil Committee Report\" and \"Kasturirangan Committee Report\", sometimes seen in the news, are related to",
+    "options": [
+      "constitutional reforms",
+      "Ganga Action Plan",
+      "linking of rivers",
+      "protection of Western Ghats"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 77,
+    "topic": "Laws and Policies",
+    "year": 2016,
+    "question": "As per the Solid Waste Management Rules, 2016 in India, which one of the following statements is correct?",
+    "options": [
+      "Waste generator has to segregate waste five categories.",
+      "The Rules are applicable to notified urban local bodies, notified towns and all industrial townships only.",
+      "The Rules provide for exact and elaborate criteria for the identification of sites for landfills and waste processing facilities.",
+      "It is mandatory the part of waste generator that the waste generated in one district cannot be moved to another district.\""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 78,
+    "topic": "Pollution",
+    "year": 2016,
+    "question": "In the cities of our country, which among the following atmospheric gases are normally considered in calculating the value of Air Quality Index?\n1. Carbon dioxide \n2. Carbon monoxide \n3. Nitrogen dioxide \n4. Sulfur dioxide \n5. Methane \nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 79,
+    "topic": "Agriculture",
+    "year": 2016,
+    "question": "Why does the Government of India promote the use of \"Neem-coated Urea\" in agriculture?",
+    "options": [
+      "Release of Neem oil in the soil increases nitrogen fixation by the soil microorganisms",
+      "Neem coating slows down the rate of dissolution of urea in the soil",
+      "Nitrous oxide, which is a greenhouse gas, is not at all released into atmosphere by crop fields",
+      "It is a combination of a weedicide and a fertilizer for particular crops"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 80,
+    "topic": "Agriculture",
+    "year": 2016,
+    "question": "The FAO accords the status of \"Globally Important Agricultural Heritage System (GIAHS)\" to traditional agricultural systems.\nWhat is the overall goal of this initiative?\n1. To provide modern technology, training in modern farming methods and financial support to local communities of identified GIAHS so as to greatly enhance their agricultural productivity.\n2. To identify and safeguard eco-friendly traditional farm practices and their associated landscapes, agricultural biodiversity and knowledge systems of the local communities \n3. The provide Geographical Indication status to all the varieties of agricultural produce in such identifies GIAHS \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 81,
+    "topic": "Terms in News",
+    "year": 2016,
+    "question": "\"Net metering\" is sometimes seen in the news in the context of promoting the",
+    "options": [
+      "production and use of solar energy by the households/consumers",
+      "use of piped natural gas in the kitchens of households",
+      "installation of CNG kits in motor-cars",
+      "installation of water meters in urban households"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 82,
+    "topic": "Terms in News",
+    "year": 2016,
+    "question": "What is \"Greenhouse Gas Protocol\"?",
+    "options": [
+      "It is an international accounting tool for government and business leaders to understand, quantify and manage greenhouse gas emissions.",
+      "It is an initiative of the United Nations to offer financial incentives to developing countries to reduce greenhouse gas emissions and to adopt eco-friendly technologies",
+      "It is an inter-governmental agreement ratified by all the member countries of the United Nations to reduce greenhouse gas emissions to specified levels by the year 2022",
+      "It is one of the multilateral REDD+ initiatives hosted by the World Bank"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 83,
+    "topic": "Ecosystems",
+    "year": 2017,
+    "question": "Biological Oxygen Demand (BOD) is a standard criterion for",
+    "options": [
+      "Measuring oxygen levels in blood",
+      "Computing oxygen levels in forest ecosystems",
+      "Pollution assay in aquatic ecosystems",
+      "Assessing oxygen levels in high altitude regions\""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 84,
+    "topic": "Biodiversity",
+    "year": 2017,
+    "question": "Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/consequences?\n1. Pollination of some plants could be adversely affected.\n2. There could be a drastic increase in the fungal infections of some cultivated plants.\n3. It could lead to a fall in the population of some species of wasps, spiders and birds.\nSelect the correct using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 85,
+    "topic": "Biodiversity",
+    "year": 2017,
+    "question": "If you want to see gharials in their natural habitat, which one of the following is the best place to visit?",
+    "options": [
+      "Bhitarkanika Mangroves",
+      "Chambal River",
+      "Pulicat Lake",
+      "Deepor Beel"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 86,
+    "topic": "Protected Areas",
+    "year": 2017,
+    "question": "Recently there was a proposal to translocate some of the lions from their habitat in Gujarat to which one of the following sites?",
+    "options": [
+      "Corbett National Park",
+      "Kuno Palpur Wildlife Sanctuary",
+      "Mudumalai Wildlife Sanctuary",
+      "Sariska National Park"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 87,
+    "topic": "Conventions and Organizations",
+    "year": 2017,
+    "question": "Consider the following statements in respect of Trade Related Analysis of Fauna and Flora in Commerce (TRAFFIC):\n1. TRAFFIC is a bureau under the United Nations Environment Programme (UNEP).\n2. The mission of TRAFFIC is to ensure that trade in wild plants and animals is not a threat to the conservation of nature.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 88,
+    "topic": "Conventions and Organizations",
+    "year": 2017,
+    "question": "With reference to the role of UN-Habitat in the United Nations Programme working towards a better urban future, which of the statements is/are correct?\n1. UN-Habitat has been mandated by the United Nations General Assembly to promote socially and environmentally sustainable towns and cities to provide adequate shelter for all.\n2. Its partners are either governments or local urban authorities only.\n3. UN-Habitat contributed to the overall objective of the United Nations system to reduce poverty and to promote access to safe drinking water and basic sanitation.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 89,
+    "topic": "Laws and Policies",
+    "year": 2017,
+    "question": "The term \"M-STrIPES\" is sometimes seen in the news in the context of",
+    "options": [
+      "Captive breeding of Wild Fauna",
+      "Maintenance of Tiger Reserves",
+      "Indigenous Satellite Navigation System",
+      "Security of National Highways"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 90,
+    "topic": "Laws and Policies",
+    "year": 2017,
+    "question": "In India, if a species of tortoise is declared protected under Schedule I of the Wildlife (Protection) Act, 1972, what does it imply?",
+    "options": [
+      "It enjoys the same level of protection as the tiger.",
+      "It no longer exists in the wild, a few individuals are under captive protection; and not it is impossible to prevent its extinction.",
+      "It is endemic to a particular region of India.",
+      "Both (b) and (c) stated above are correct in this context."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 91,
+    "topic": "Laws and Policies",
+    "year": 2017,
+    "question": "According to the Wildlife (Protection) Act, 1972, which of the following animals cannot be hunted by any person except under some provisions provided by law?\n1. Gharial \n2. Indian wild ass \n3. Wild buffalo \nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 92,
+    "topic": "Climate Change",
+    "year": 2017,
+    "question": "With reference to \"Global Climate Change Alliance\", which of the following statements is/ are correct?\n1. It is an initiative of the European Union.\n2. It provides technical and financial support to targeted developing countries to integrate climate change into their development policies and budgets.\n3. It is coordinated by World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD).\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 93,
+    "topic": "Climate Change",
+    "year": 2017,
+    "question": "In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be potential sites for carbon sequestration?\n1. Abandoned and uneconomic coal seams \n2. Depleted oil and gas reservoirs \n3. Subterranean deep saline formations \nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 94,
+    "topic": "Pollution",
+    "year": 2017,
+    "question": "Consider the following statements:\n1. Climate and Clean Air Coalition (CCAC) to Reduce Short Lived Climate Pollutants is a unique initiative of G2O group of countries.\n2. The CCAC focuses on methane, black carbon and hydrofluorocarbons.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 95,
+    "topic": "Pollution",
+    "year": 2017,
+    "question": "In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation techniques?\n1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.\n2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.\n3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 96,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2017,
+    "question": "It is possible to produce algae based biofuels, but what is/are the likely limitation(s) of developing countries in promoting this industry?\n1. Production of algae based biofuels is possible in seas only and not on continents.\n2. Setting up and engineering the algae based biofuels production requires high level of expertise/ technology until the construction is complete.\n3. Economically viable production necessitates the setting up of large scale facilities which may raise ecological and social concerns.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 97,
+    "topic": "Agriculture",
+    "year": 2017,
+    "question": "Which of the following Practices can help in water conservation in agriculture?\n1. Reduced or zero tillage of the land \n2. Applying gypsum before irrigating the field \n3. Allowing crop residue to remain in the field \nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 98,
+    "topic": "Ecosystems",
+    "year": 2018,
+    "question": "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss?\n1. Hard and waxy leaves \n2. Tiny leaves \n3. Thorns instead of leaves \nSelect the correct answer using the code given below:",
+    "options": [
+      "2 and 3 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 99,
+    "topic": "Environmental Degradation",
+    "year": 2018,
+    "question": "Which of the following is/are the possible consequence/s of heavy sand mining in river beds?\n1. Decreased salinity in the river \n2. Pollution of groundwater \n3. Lowering of the water-table \nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 100,
+    "topic": "Biodiversity",
+    "year": 2018,
+    "question": "Why is a plant called Prosopis Juliflora often mentioned in the news?",
+    "options": [
+      "Its extract is widely used in cosmetics.",
+      "It tends to reduce the biodiversity in the area in which it grows.",
+      "Its extract is used in the synthesis of pesticides.",
+      "None of these"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 101,
+    "topic": "Protected Areas",
+    "year": 2018,
+    "question": "In which one of the following States is Pakhui Wildlife Sanctuary located?",
+    "options": [
+      "Arunachal Pradesh",
+      "Manipur",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 102,
+    "topic": "Conventions and Organizations",
+    "year": 2018,
+    "question": "How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?\n1. The NGT has been established by an Act whereas the CPCB has been created by an executive order of the Government.\n2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 103,
+    "topic": "Conventions and Organizations",
+    "year": 2018,
+    "question": "With reference to the \"Global Alliance for Climate-Smart Agriculture (GACSA)\", which of the following statements is/are correct?\n1. GACSA is an outcome of the Climate Summit held in Paris in \n2015. 2.\nMembership of GACSA does not create any binding obligations.\n3. India was instrumental in the creation of GACSA.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 104,
+    "topic": "Conventions and Organizations",
+    "year": 2018,
+    "question": "The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries transition towards greener and more inclusive economies, emerged at",
+    "options": [
+      "The Earth Summit on Sustainable Development 2002, Johannesburg",
+      "The United Nations Conference on Sustainable Development 2012, Rio de Janeiro",
+      "The United Nations Framework Convention on Climate change 2015, Paris",
+      "The World Sustainable Development Summit 2016, New Delhi"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 105,
+    "topic": "Laws and Policies",
+    "year": 2018,
+    "question": "Consider the following statements:\n1. The definition of \"Critical Wildlife Habitat\" is incorporated in the Forest Rights Act, \n2006. 2.\nFor the first time in India, Bangas have been given Habitat Rights.\n3. Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 106,
+    "topic": "Climate Change",
+    "year": 2018,
+    "question": "Which of the following statements best describes \"carbon fertilization\"?",
+    "options": [
+      "Increased plant growth due to increased concentration of carbon dioxide in the atmosphere",
+      "Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere",
+      "Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere",
+      "Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 107,
+    "topic": "Climate Change",
+    "year": 2018,
+    "question": "\"Momentum for Change :\nClimate Neutral Now\" is an initiative launched by",
+    "options": [
+      "The Intergovernmental Panel on Climate Change",
+      "The UNEP Secretariat",
+      "The UNFCCC Secretariat",
+      "The World Meteorological Organization"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 108,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2018,
+    "question": "With reference to solar power production in India, consider the following statements:\n1. India is the third largest in the world in the manufacture of silicon wafers used in photovoltaic units.\n2. The solar power tariffs are determined by the Solar Energy Corporation of India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 109,
+    "topic": "Agriculture",
+    "year": 2018,
+    "question": "With reference to the circumstances in Indian agriculture, the concept of \"Conservation Agriculture\" assumes significance.\nWhich of the following fall under the Conservation Agriculture?\n1. Avoiding the monoculture practices \n2. Adopting minimum tillage \n3. Avoiding the cultivation of plantation crops \n4. Using crop residues to cover soil surface \n5. Adopting spatial and temporal crop sequencing/crop rotations \nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4",
+      "2, 3, 4 and 5",
+      "2, 4 and 5",
+      "1, 2, 3 and 5"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 110,
+    "topic": "Agriculture",
+    "year": 2018,
+    "question": "With reference to agricultural soils, consider the following statements:\n1. A high content of organic matter in soil drastically reduces its water holding capacity.\n2. Soil does not play any role in the sulphur cycle.\n3. Irrigation over a period of time can contribute to the salinization of some agricultural lands.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 111,
+    "topic": "Biodiversity",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. Asiatic lion is naturally found in India only.\n2. Double-humped camel is naturally found in India only.\n3. One-horned rhinoceros is naturally found in India only.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 112,
+    "topic": "Biodiversity",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. Some species of turtles are herbivores.\n2. Some species of fish are herbivores.\n3. Some species of marine mammals are herbivores.\n4. Some species of snakes are viviparous.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 113,
+    "topic": "Biodiversity",
+    "year": 2019,
+    "question": "Consider the following pairs:\nWildlife Naturally found in \n1. Blue-finned Mahseer :\nCauvery River \n2. Irrawaddy Dolphin :\nChambal River \n3. Rusty-spotted Cat :\nEastern Ghats Which of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 114,
+    "topic": "Biodiversity",
+    "year": 2019,
+    "question": "Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of",
+    "options": [
+      "anti-malarial drug",
+      "biodiesel",
+      "pulp for paper industry",
+      "textile fibre"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 115,
+    "topic": "Protected Areas",
+    "year": 2019,
+    "question": "Which of the following are in Agasthyamala Biosphere Reserve?",
+    "options": [
+      "Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve",
+      "Mudumalai, Sathyamangalam and Wayanad Wildlife Sanctuaries; and Silent Valley National Park",
+      "Kaundinya, Gundla Brahmeswaram and Papikonda Wildlife Sanctuaries; and Mukurthi National Park",
+      "Kawal and Sri Venkateswara Wildlife Sanctuaries; and Nagarjunasagar-Srisailam Tiger Reserve"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 116,
+    "topic": "Protected Areas",
+    "year": 2019,
+    "question": "Which one of the following National Parks lies completely in the temperate alpine zone?",
+    "options": [
+      "Manas National Park",
+      "Namdapha National Park",
+      "Neora Valley National Park",
+      "Valley of Flowers National Park"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 117,
+    "topic": "Laws and Policies",
+    "year": 2019,
+    "question": "In India, \"extended producer responsibility\" was introduced as an important feature in which of the following?",
+    "options": [
+      "The Bio-medical Waste (Management and Handling) Rules, 1998",
+      "The Recycled Plastic (Manufacturing and Usage) Rules, 1999",
+      "The e-Waste (Management and Handling) Rules, 2011",
+      "The Food Safety and Standard Regulations, 2011\""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 118,
+    "topic": "Laws and Policies",
+    "year": 2019,
+    "question": "Consider the following statements:\nThe Environment Protection Act, 1986 empowers the Government of India to \n1. State the requirement of public participation in the process of environmental protection, and the procedure and manner in which it is sought \n2. Lay down the standards for emission or discharge of environmental pollutants from various sources Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 119,
+    "topic": "Laws and Policies",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. Under Ramsar Convention, it is mandatory on the part of the Government of India to protect and conserve all the wetlands in the territory of India.\n2. The Wetlands (Conservation and Management) Rules, 2010 were framed by the Government of India based on the recommendation of Ramsar Convention.\n3. The Wetlands (Conservation and Management) Rules, 2010 also encompass the drainage area or catchment regions of the wetlands as determined by the authority.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 120,
+    "topic": "Forests and Forest Laws",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.\n2. People\"s participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, \n2016. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 121,
+    "topic": "Forests and Forest Laws",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. As per recent amendment to the Indian Forest Act, 1927, forest dwellers have the right to fell the bamboos grown on forest areas.\n2. As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, bamboo is a minor forest produce.\n3. The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forests Rights) Act, 2006 allows ownership of minor forest produce to forest dwellers.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 122,
+    "topic": "Climate Change",
+    "year": 2019,
+    "question": "Which of the following statements are correct about the deposits of \"methane hydrate\"?\n1. Global warming might trigger the release of methane gas from these deposits.\n2. Large deposits of \"methane hydrate\" are found in Arctic Tundra and under the seafloor.\n3. Methane in atmosphere oxidizes to carbon dioxide after decade or two.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 123,
+    "topic": "Climate Change",
+    "year": 2019,
+    "question": "In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere?",
+    "options": [
+      "Creating the artificial rains in some regions",
+      "Reducing the frequency and intensity of tropical cyclones",
+      "Reducing the adverse effects of solar wind on the Earth",
+      "Reducing the global warming"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 124,
+    "topic": "Pollution",
+    "year": 2019,
+    "question": "Why is there a great concern about the \"microbeads\" that are released into environment?",
+    "options": [
+      "They are considered harmful to marine ecosystems.",
+      "They are considered to cause skin cancer in children.",
+      "They are small enough to be absorbed by crop plants in irrigated fields.",
+      "They are often found to be used as food adulterants."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 125,
+    "topic": "Pollution",
+    "year": 2019,
+    "question": "Consider the following:\n1. Carbon monoxide \n2. Methane \n3. Ozone \n4. Sulphur dioxide Which of the above are released into atmosphere due to the burning of crop/biomass residue?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 126,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2019,
+    "question": "In the context of which one of the following are the terms \"pyrolysis and plasma gasification\" mentioned?",
+    "options": [
+      "Extraction of rare earth elements",
+      "Natural gas extraction technologies",
+      "Hydrogen fuel-based automobiles",
+      "Waste-to-energy technologies"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 127,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2019,
+    "question": "In the context of proposals to the use of hydrogen-enriched CNG (H-CNG) as fuel for buses in public transport, consider the following statements:\n1. The main advantage of the use of H-CNG is the elimination of carbon monoxide emissions.\n2. H-CNG as fuel reduces carbon dioxide and hydrocarbon emissions.\n3. Hydrogen up to one-fifth by volume can be blended with CNG as fuel for buses.\n4. H-CNG makes the fuel less expensive than CNG.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 128,
+    "topic": "Agriculture",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. Agricultural soils release nitrogen oxides into environment.\n2. Cattle release ammonia into environment.\n3. Poultry industry releases reactive nitrogen compounds into environment.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 129,
+    "topic": "Agriculture",
+    "year": 2019,
+    "question": "In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension.\nThese chemicals are used as",
+    "options": [
+      "pesticides in agriculture",
+      "preservatives in processed foods",
+      "fruit-ripening agents",
+      "moisturizing agents in cosmetics"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 130,
+    "topic": "Biodiversity",
+    "year": 2020,
+    "question": "With reference to Indian elephants, consider the following statements:\n1. The leader of an elephant group is a female.\n2. The maximum gestation period can be 22 months.\n3. An elephant can normally go on calving till the age of 40 years only.\n4. Among the States in India, the highest elephant population is in Kerala.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "3 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 131,
+    "topic": "Biodiversity",
+    "year": 2020,
+    "question": "With reference to India\"s biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray- chinned minivet and White-throated redstart are",
+    "options": [
+      "Birds",
+      "Primates",
+      "Reptiles",
+      "Amphibians"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 132,
+    "topic": "Protected Areas",
+    "year": 2020,
+    "question": "With reference to India\"s Desert National Park, which of the following statements are correct?\n1. It is spread over two districts.\n2. There is no human habitation inside the Park.\n3. It is one of the natural habitats of Great Indian Bustard.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 133,
+    "topic": "Protected Areas",
+    "year": 2020,
+    "question": "Among the following Tiger Reserves, which one has the largest area under \"Critical Tiger Habitat\"?",
+    "options": [
+      "Corbett",
+      "Ranthambore",
+      "Nagarjunsagar-Srisailam",
+      "Sunderbans"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 134,
+    "topic": "Protected Areas",
+    "year": 2020,
+    "question": "Which one of the following protected areas is well-known for the conservation of a sub- species of the Indian swamp deer (Barasingha) that thrives well on hard ground and is exclusively graminivorous?",
+    "options": [
+      "Kanha National Park",
+      "Manas national Park",
+      "Mudumalai Wildlife Sanctuary",
+      "Tal Chapar Wildlife Sanctuary"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 135,
+    "topic": "Protected Areas",
+    "year": 2020,
+    "question": "Which of the following are the most likely places to find the musk deer in its natural habitat?\n1. Askot Wildlife Sanctuary \n2. Gangotri National Park \n3. Kishanpur Wildlife Sanctuary \n4. Manas National Park \nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1 and 4 only"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 136,
+    "topic": "Laws and Policies",
+    "year": 2020,
+    "question": "If a particular plant species is placed under Schedule VI of The Wildlife Protection Act, 1972, what is the implication?",
+    "options": [
+      "A license is required to cultivate that plant.",
+      "Such a plant cannot be cultivated under any circumstances.",
+      "It is Genetically Modified crop plant.",
+      "Such a plant is invasive and harmful to the ecosystem."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 137,
+    "topic": "Laws and Policies",
+    "year": 2020,
+    "question": "Consider the following statements:\n1. 36% of India\"s districts are classified as \"\"overexploited\"\" or \"\"critical\"\" by the Central Ground Water Authority (CGWA).\n2. CGWA was formed under the Environment (Protection) Act.\n3. India has the largest area under groundwater irrigation in the world.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 138,
+    "topic": "Climate Change",
+    "year": 2020,
+    "question": "Steel slag can be the material for which of the following?\n1. Construction of base road \n2. Improvement of agricultural soil \n3. Production of cement \nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 139,
+    "topic": "Climate Change",
+    "year": 2020,
+    "question": "In rural road construction, the use of which of the following is preferred for ensuring environmental sustainability or to reduce carbon footprint?\n1. Copper slag \n2. Cold mix asphalt technology \n3. Geotextiles \n4. Hot mix asphalt technology \n5. Portland cement \nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "4 and 5 only",
+      "1 and 5 only"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 140,
+    "topic": "Pollution",
+    "year": 2020,
+    "question": "Which of the following are the reasons/factors for exposure to benzene pollution?\n1. Automobile exhaust \n2. Tobacco smoke \n3. Wood burning \n4. Using varnished wooden furniture \n5. Using products made of polyurethane \nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 141,
+    "topic": "Pollution",
+    "year": 2020,
+    "question": "Consider the following statements:\n1. Coal ash contains arsenic, lead and mercury.\n2. Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment.\n3. High ash content is observed in Indian coal.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 142,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2020,
+    "question": "According to India\"s National Policy on Biofuels, which of the following can be used as raw materials for the production of biofuels?\n1. Cassava \n2. Damaged wheat grains \n3. Groundnut seeds \n4. Horse grams \n5. Rotten potatoes \n6. Sugar beet \nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2, 5 and 6 only",
+      "1, 3, 4 and 6 only",
+      "2, 3, 4 and 5 only",
+      "1, 2, 3, 4, 5 and 6"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 143,
+    "topic": "Agriculture",
+    "year": 2020,
+    "question": "What are the advantages of fertigation in agriculture ?\n1. Controlling the alkalinity of irrigation water is possible.\n2. Efficient application of Rock Phosphate and all other phosphatic fertilizers is possible.\n3. Increased availability of nutrients to plants is possible.\n4. Reduction in the leaching of chemical nutrients is possible.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 144,
+    "topic": "Agriculture",
+    "year": 2020,
+    "question": "What is/are the advantage/advantages of zero tillage in agriculture?\n1. Sowing of wheat is possible without burning the residue of previous crop.\n2. Without the need for nursery of rice saplings, direct planting of paddy seeds in the wet soil is possible.\n3. Carbon sequestration in the soil is possible.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 145,
+    "topic": "Agriculture",
+    "year": 2020,
+    "question": "In the context of India, which of the following is/are considered to be practice(s) of eco-friendly agriculture?\n1. Crop diversification \n2. Legume intensification \n3. Tensiometer use \n4. Vertical farming \nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "3 only",
+      "4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 146,
+    "topic": "Agriculture",
+    "year": 2020,
+    "question": "What is the use of biochar in farming?\n1. Biochar can be used as a part of the growing medium in vertical farming.\n2. When biochar is a part of the growing medium, it promotes the growth of nitrogen-fixing microorganisms.\n3. When biochar is a part of the growing medium, it enables the growing medium to retain water for longer time.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 147,
+    "topic": "Terms in News",
+    "year": 2020,
+    "question": "Which one of the following statements best describes the term \"Social Cost of Carbon\"?\nIt is measure, in monetary value, of the",
+    "options": [
+      "long-term damage done by a tonne of CO2 emissions in a given year.",
+      "requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.",
+      "efforts put in by a climate refugee to adapt to live in a new place.",
+      "contribution of an individual person to the carbon footprint on the planet Earth."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 148,
+    "topic": "Ecosystems",
+    "year": 2021,
+    "question": "In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrient to enter the cycle?",
+    "options": [
+      "Carbon cycle",
+      "Nitrogen cycle",
+      "Phosphorus cycle",
+      "Sulphur cycle"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 149,
+    "topic": "Ecosystems",
+    "year": 2021,
+    "question": "The vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees.\nThe forest development in such areas is generally kept in check by one or more or a combination of some conditions.\nWhich of the following are such conditions?\n1. Burrowing animals and termites \n2. Fire \n3. Grazing herbivores \n4. Seasonal rainfall \n5. Soil properties \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "4 and 5",
+      "2, 3 and 4",
+      "1, 3 and 5"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 150,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "Consider the following animals:\n1. Hedgehog \n2. Marmot \n3. Pangolin To reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/protect its/their vulnerable parts?\n40",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1 and 3 only"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 151,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "Which one of the following is a filter feeder?",
+    "options": [
+      "Catfish",
+      "Octopus",
+      "Oyster",
+      "Pelican"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 152,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "Which of the following are detritivores?\n1. Earthworms \n2. Jellyfish \n3. Millipedes \n4. Seahorses \n5. Woodlice \nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3, 4 and 5 only",
+      "1, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 153,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "In the nature, which of the following is/are most likely to be found surviving on a surface without soil?\n1. Fern \n2. Lichen \n3. Moss \n4. Mushroom \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 4 only",
+      "2 only",
+      "2 and 3",
+      "1, 3 and 4"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 154,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "Which one of the following is used in preparing a natural mosquito repellent?",
+    "options": [
+      "Congress grass",
+      "Elephant grass",
+      "Lemongrass",
+      "Nut grass"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 155,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "Consider the following kinds of organisms:\n1. Copepods \n2. Cyanobacteria \n3. Diatoms \n4. Foraminifera Which of the above are primary producers in the food chains of oceans?",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 156,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "With reference to \"palm oil\", consider the following statements:\n1. The palm oil tree is native to Southeast Asia.\n2. The palm oil is a raw material for some industries producing lipstick and perfumes.\n3. The palm oil can be used to produce biodiesel.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 157,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "Consider the following statements:\n1. Moringa (drumstick tree) is a leguminous evergreen tree.\n2. Tamarind tree is endemic to South Asia.\n3. In India, most of the tamarind is collected as minor forest produce.\n4. India exports tamarind and seeds of moringa.\n5. Seeds of moringa and tamarind can be used in the production of biofuels.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2, 4 and 5",
+      "3, 4 and 5",
+      "1, 3 and 4",
+      "1, 2, 3 and 5"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 158,
+    "topic": "Biodiversity",
+    "year": 2021,
+    "question": "Which of the following have species that can establish symbiotic relationship with other organisms?\n1. Cnidarians \n2. Fungi \n3. Protozoa \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 159,
+    "topic": "Conventions and Organizations",
+    "year": 2021,
+    "question": "Consider the following statements:\n1. The Global Ocean Commission grants licences for seabed exploration and mining in international waters.\n2. India has received licences for seabed mineral exploration in international waters.\n3. \"Rare earth minerals\" are present on seafloor in international waters.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 160,
+    "topic": "Conventions and Organizations",
+    "year": 2021,
+    "question": "\"R2 Code of Practices\" constitutes a tool available for promoting the adoption of",
+    "options": [
+      "environmentally responsible practices in electronics recycling industry",
+      "ecological management of \"Wetlands of International Importance\" under the Ramsar Convention",
+      "sustainable practices in the cultivation of agricultural crops in degraded lands.",
+      "\"Environmental Impact Assessment\" in the exploitation of natural resources"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 161,
+    "topic": "Conventions and Organizations",
+    "year": 2021,
+    "question": "Consider the following statements:\nStatement 1:\nThe United Nations Capital Development Fund (UNCDF) and the Arbor Day Foundation have recently recognized Hyderabad as 2020 Tree City of the World.\nStatement 2:\nHyderabad was selected for the recognition for a year following its commitment to grow and maintain the urban forests.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement 1 and Statement 2 are correct and Statement 2 is the correct explanation for Statement 1",
+      "Both Statement 1 and Statement 2 are correct but Statement 2 is not the correct explanation for Statement 1",
+      "Statement 1 is correct but Statement 2 is not correct",
+      "Statement 1 is not correct but Statement 2 is correct"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 162,
+    "topic": "Forests and Forest Laws",
+    "year": 2021,
+    "question": "With reference to the \"New York Declaration on Forests\", which of the following statements are correct?\n1. It was first endorsed at the United Nations Climate Summit in \n2014. 2.\nIt endorses a global timeline to end the loss of forests.\n3. It is a legally binding international declaration.\n4. It is endorsed by governments, big companies and indigenous communities.\n5. India was one of the signatories at its inception.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 5",
+      "3 and 4",
+      "2 and 5"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 163,
+    "topic": "Climate Change",
+    "year": 2021,
+    "question": "The \"Common Carbon Metric\", supported by UNEP, has been developed for",
+    "options": [
+      "assessing the carbon footprint of building operations around the world",
+      "enabling commercial farming entities around the world to enter carbon emission trading",
+      "enabling governments to assess the overall carbon footprint caused by their countries",
+      "assessing the overall carbon foot-print caused by the use of fossil fuels by the world in a unit time"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 164,
+    "topic": "Pollution",
+    "year": 2021,
+    "question": "Why is there a concern about copper smelting plants?\n1. They may release lethal quantities of carbon monoxide into environment.\n2. The copper slag can cause the leaching of some heavy metals into environment.\n3. They may release sulphur dioxide as a pollutant.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 165,
+    "topic": "Pollution",
+    "year": 2021,
+    "question": "With reference to furnace oil, consider the following statements:\n1. It is a product of oil refineries.\n2. Some industries use it to generate power.\n3. Its use causes sulphur emissions into environment.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 166,
+    "topic": "Pollution",
+    "year": 2021,
+    "question": "Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?\n1. Brakes of motor vehicles \n2. Engines of motor vehicles \n3. Microwave stoves within homes \n4. Power plants \n5. Telephone lines \nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 2 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 167,
+    "topic": "Agriculture",
+    "year": 2021,
+    "question": "How is the permaculture farming different from conventional chemical farming?\n1. Permaculture farming discourages monocultural practices but in conventional chemical farming, monoculture practices are predominant.\n2. Conventional chemical farming can cause increase in soil salinity but the occurrence of such phenomenon is not observed in permaculture farming.\n3. Conventional chemical farming is easily possibly in semi-arid regions but permaculture farming is not so easily possible in such regions.\n4. Practice of mulching is very important in permaculture farming but not necessarily so in conventional chemical farming.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 3",
+      "1, 2 and 4",
+      "4 only",
+      "2 and 3"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 168,
+    "topic": "Agriculture",
+    "year": 2021,
+    "question": "In the context of India\"s preparation for Climate-Smart Agriculture, consider the following statements:\n1. The \"Climate-Smart Village\" approach in India is a part of a project led by the Climate Change, Agriculture and Food Security (CCAFS), an international research programme.\n2. The project of CCAFS is carried out under Consultative Group on International Agricultural Research (CGIAR) headquartered in France.\n3. The International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) in India is one of the CGIAR\"s research centres.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 169,
+    "topic": "Terms in News",
+    "year": 2021,
+    "question": "What is blue carbon?",
+    "options": [
+      "Carbon captured by oceans and coastal ecosystems",
+      "Carbon sequestered in forest biomass and agricultural soils",
+      "Carbon contained in petroleum and natural gas",
+      "Carbon present in atmosphere"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 170,
+    "topic": "Ecosystems",
+    "year": 2022,
+    "question": "\"If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.\" Which one of the following functions of wetlands best reflects the above statement?",
+    "options": [
+      "The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation.",
+      "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive.",
+      "Wetlands play a vital role in maintaining sedimentation balance and soil stabilization.",
+      "Aquatic plants absorb heavy metals and excess nutrients."
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 171,
+    "topic": "Environmental Degradation",
+    "year": 2022,
+    "question": "Which one of the following lakes of West Africa has become dry and turned into a desert ?",
+    "options": [
+      "Lake Victoria",
+      "Lake Faguibine",
+      "Lake Oguta",
+      "Lake Volta"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 172,
+    "topic": "Biodiversity",
+    "year": 2022,
+    "question": "Which of the following is not a bird?",
+    "options": [
+      "Golden Mahseer",
+      "Indian Nightjar",
+      "Spoonbill",
+      "White Ibis"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 173,
+    "topic": "Biodiversity",
+    "year": 2022,
+    "question": "Certain species of which one of the following organisms are well known as cultivators of fungi?",
+    "options": [
+      "Ant",
+      "Cockroach",
+      "Crab",
+      "Spider"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 174,
+    "topic": "Biodiversity",
+    "year": 2022,
+    "question": "Which of the following are nitrogen-fixing plants?\n1. Alfalfa \n2. Amarnath \n3. Chickpea \n4. Clover \n5. Purslane (Kulfa) \n6. Spinach \nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4 only",
+      "1, 3, 5 and 6 only",
+      "2, 4, 5 and 6 only",
+      "1, 2, 4, 5 and 6"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 175,
+    "topic": "Conventions and Organizations",
+    "year": 2022,
+    "question": "In the context of WHO Air Quality Guidelines, consider the following statements :\n1. The 24-hour mean of PM 2.5 should not exceed 15 µg/m3 and annual mean of PM2.5 should not exceed 5 µg/m3.\n2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather.\n3. PM10 can penetrate the lung barrier and enter the bloodstream.\n4. Excessive ozone in the air can trigger asthma.\nWhich of the statements given above are correct ?",
+    "options": [
+      "1, 3 and 4",
+      "1 and 4 only",
+      "2, 3 and 4",
+      "1 and 2 only"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 176,
+    "topic": "Laws and Policies",
+    "year": 2022,
+    "question": "Which one of the following has been constituted under the Environment (Protection) Act, 1986?",
+    "options": [
+      "Central Water Commission",
+      "Central Ground Water Board",
+      "Central Ground Water Authority",
+      "National Water Development Agency"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 177,
+    "topic": "Laws and Policies",
+    "year": 2022,
+    "question": "With reference to Indian laws about wildlife protection, consider the following statements:\n1. Wild animals are the sole property of the government.\n2. When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.\n3. Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 178,
+    "topic": "Laws and Policies",
+    "year": 2022,
+    "question": "Which one of the following statements best describes the \"Polar Code\"?",
+    "options": [
+      "It is the international code of safety for ships operating in polar waters.",
+      "It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region.",
+      "It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole.",
+      "It is a trade and security agreement of the member countries of the Arctic Council."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 179,
+    "topic": "Climate Change",
+    "year": 2022,
+    "question": "Climate Action Tracker, which monitors the emission reduction pledges of different countries is a:",
+    "options": [
+      "Database created by coalition of research organisations",
+      "Wing of \"International Panel of Climate Change\"",
+      "Committee under \"United Nations Framework Convention on Climate Change\"",
+      "Agency promoted and financed by United Nations Environment Programme and World Bank"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 180,
+    "topic": "Climate Change",
+    "year": 2022,
+    "question": "Consider the following statements :\n1. \"The Climate Group\" is an international non-profit organization that drives climate action by building large networks and runs them.\n2. The International Energy Agency in partnership with the Climate Group launched a global initiative \"EP100\".\n3. EP100 brings together leading companies committed to driving innovation in energy efficiency and increasing competitiveness while delivering on emission reduction goals.\n4. Some Indian companies are members of EP100.\n5. The International Energy Agency is the Secretariat to the \"Under2 Coalition\".\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2, 4 and 5 only",
+      "1, 3 and 4 only",
+      "2, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 181,
+    "topic": "Climate Change",
+    "year": 2022,
+    "question": "\"Biorock technology\" is talked about in which one of the following situations?",
+    "options": [
+      "Restoration of damaged coral reefs",
+      "Development of building materials using plant residues",
+      "Identification of areas for exploration/extraction of shale gas",
+      "Providing salt licks for wild animals in forest/protected areas"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 182,
+    "topic": "Pollution",
+    "year": 2022,
+    "question": "With reference to polythylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.\n2. Containers made of it can be used to store any alcoholic beverage.\n3. Bottle made of it can be recycled into other products.\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 183,
+    "topic": "Pollution",
+    "year": 2022,
+    "question": "Consider the following:\n1. Carbon monoxide \n2. Nitrogen oxide \n3. Ozone \n4. Sulphur dioxide Excess of which of the above in the environment is/are cause(s) of acid rain?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 4 only",
+      "4 only",
+      "1, 3 and 4"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 184,
+    "topic": "Agriculture",
+    "year": 2022,
+    "question": "Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide ?",
+    "options": [
+      "Cotton",
+      "Rice",
+      "Sugarcane",
+      "Wheat"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 185,
+    "topic": "Agriculture",
+    "year": 2022,
+    "question": "\"System of Rice Intensification\" of System of Rice Intensification cultivation, in which alternate wetting and An emerging alternative Larger (Heavier) More grains per grains drying of rice fields is practised, results in :\nfertile tiller \n1. Reduced seed requirement More well-filled More fertile panicles which tillers per plant form the tillers that a plant puts out \n2. Reduced methane production Increased A healthy and strong \n3. Reduced electricity consumption hi a lls n d (s b ta ig ti g o e n r s) root system below ground for each plant \nSelect the correct answer using the code All these benefits works out by following four main principles of SRI method; (1) Healthy early crop establishment, (2) given below :\nReduced competition between plants, (3) Healthy soils, rich in organic matter, and (4) Moist soil (water) management",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 186,
+    "topic": "Terms in News",
+    "year": 2022,
+    "question": "The \"Miyawaki method\" is well known for the:",
+    "options": [
+      "Promotion of commercial farming in arid and semi-arid areas",
+      "Development of gardens using genetically modified flora",
+      "Creation of mini forests in urban areas",
+      "Harvesting wind energy on coastal areas and on sea surfaces."
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 187,
+    "topic": "Terms in News",
+    "year": 2022,
+    "question": "Which one of the following best describes the term \"greenwashing\"?",
+    "options": [
+      "Conveying a false impression that a company\"s products are eco-friendly and environmentally sound",
+      "Non-inclusion of ecological/environmental costs in the Annual Financial Statements of a country.",
+      "Ignoring the disastrous ecological consequences while undertaking infrastructure development.",
+      "Making mandatory provision for environmental costs in a government project/programme."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 188,
+    "topic": "Biodiversity",
+    "year": 2023,
+    "question": "Consider the following statements:\nStatement-I:\nMarsupials are not naturally found in India.\nStatement-II:\nMarsupials can thrive only in montane grasslands with no predators.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 189,
+    "topic": "Biodiversity",
+    "year": 2023,
+    "question": "Consider the following fauna:\n1. Lion-tailed Macaque \n2. Malabar Civet \n3. Sambar Deer How many of the above are generally nocturnal or most active after sunset?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 190,
+    "topic": "Biodiversity",
+    "year": 2023,
+    "question": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
+    "options": [
+      "Butterflies",
+      "Dragonflies",
+      "Honeybees",
+      "Wasps"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 191,
+    "topic": "Biodiversity",
+    "year": 2023,
+    "question": "Consider the following statements regarding the Indian squirrels:\n1. They build nests by making burrows in the ground.\n2. They store their food materials like nuts and seeds in the ground.\n3. They are omnivorous.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 192,
+    "topic": "Biodiversity",
+    "year": 2023,
+    "question": "Which one of the following makes a tool with a stick to scrap insects from a hole in a tree or a log of wood?",
+    "options": [
+      "Fishing cat",
+      "Orangutan",
+      "Otter",
+      "Sloth bear"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 193,
+    "topic": "Biodiversity",
+    "year": 2023,
+    "question": "Consider the following statements:\n1. Some mushrooms have medicinal properties.\n2. Some mushrooms have psychoactive properties.\n3. Some mushrooms have insecticidal properties.\n4. Some mushrooms have bioluminescent properties.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 194,
+    "topic": "Biodiversity",
+    "year": 2023,
+    "question": "Consider the following statements:\n1. Some microorganisms can grow in environments with temperature above the boiling point of water.\n2. Some microorganisms can grow in environments with temperature below the freezing point of water.\n3. Some microorganisms can grow in highly acidic environment with a pH below \n3. How many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 195,
+    "topic": "Protected Areas",
+    "year": 2023,
+    "question": "Consider the following statements:\nOnce the Central Government notifies an area as a \"Community Reserve\" \n1. the Chief Wildlife Warden of the State becomes the governing authority of such forest \n2. hunting is not allowed in such area \n3. people of such area are allowed to collect non-timber forest produce \n4. people of such area are allowed traditional agricultural practices How many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 196,
+    "topic": "Conventions and Organizations",
+    "year": 2023,
+    "question": "Invasive species Specialist Group\" (that develops Global Invasive Species Database) belongs to which one of the following organizations?",
+    "options": [
+      "The International Union for Conservation of Nature",
+      "The United Nations Environment Programme",
+      "The United Nations World Commission for Environment and Development.",
+      "The World Wide Fund for Nature"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 197,
+    "topic": "Conventions and Organizations",
+    "year": 2023,
+    "question": "Consider the following statement :\n1. Recently, all the countries of the United Nations have adopted the first-ever compact for international migration, the \"Global Compact for Safe, Orderly and Regular Migration (GCM)\".\n2. The Objectives and commitments sated in the GCM are binding on the UN member countries.\n3. The GCM addresses internal migration or internally displaced people also in its objectives and commitments.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 198,
+    "topic": "Laws and Policies",
+    "year": 2023,
+    "question": "Consider the following statements :\n1. In India, the Biodiversity Management committees are key to the realization of the objectives of Nagoya Protocol.\n2. The Biodiversity Management committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 199,
+    "topic": "Climate Change",
+    "year": 2023,
+    "question": "Consider the following statements:\nStatement-I:\nCarbon markets are likely to be one of the most widespread tools in the fight against climate change.\nStatement-II:\nCarbon markets transfer resources from the private sector to the State.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 200,
+    "topic": "Climate Change",
+    "year": 2023,
+    "question": "Consider the following activities :\n1. Spreading finely ground basalt rock on farmlands extensively \n2. Increasing the alkalinity of oceans by adding lime \n3. Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated waters How many of the above activities are often considered and discussed for carbon capture and sequestration?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 201,
+    "topic": "Pollution",
+    "year": 2023,
+    "question": "Consider the following:\n1. Aerosols \n2. Foam agents \n3. Fire retardants \n4. Lubricants In the making of how many of the above are hydrofluorocarbons used?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 202,
+    "topic": "Pollution",
+    "year": 2023,
+    "question": "With reference to the role of biofilters in Recirculating Aquaculture System, consider the following statements :\n1. Biofilters provide waste treatment by removing uneaten fish feed.\n2. Biofilters convert ammonia present in fish waste to nitrate.\n3. Biofilters increase phosphorus as nutrient for fish in water.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 203,
+    "topic": "Pollution",
+    "year": 2023,
+    "question": "Consider the following statements regarding mercury pollution :\n1. Gold mining activity is a source of mercury pollution in the world.\n2. Coal-based thermal power plants cause mercury pollution.\n3. There is no known safe level of exposure to mercury.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 204,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2023,
+    "question": "Consider the following heavy industries :\n1. Fertiliser plants \n2. Oil refineries \n3. Steel plants Green hydrogen is expected to play a significant role in decarbonizing how many of the above industries?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 205,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2023,
+    "question": "With reference to green hydrogen, Consider the following statements :\n1. It can be used directly as a fuel for internal combustion.\n2. It can be blended with natural gas and used as fuel for heat or power generation.\n3. It can be used in the hydrogen fuel cell to run vehicles.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 206,
+    "topic": "Agriculture",
+    "year": 2023,
+    "question": "Consider the following statements :\nStatement-I :\nAccording to the United Nations \"World Water Development Report, 2022\", India extracts more than a quarter of the world\"s groundwater withdrawal each year.\nStatement-II :\nIndia needs to extract more than a quarter of the world\"s groundwater each year to satisfy the drinking water and sanitation needs of almost 18% of world\"s population living in its territory.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 207,
+    "topic": "Environmental Degradation",
+    "year": 2024,
+    "question": "One of the following regions has the world\"s largest tropical peatland, which holds about three years worth of global carbon emissions from fossil fuels; and the possible destruction of which can exert detrimental effects on the global climate.\nWhich one of the following denotes that region ?",
+    "options": [
+      "Amazon Basin",
+      "Congo Basin",
+      "Kikori Basin",
+      "Rio de la Plata Basin"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 208,
+    "topic": "Biodiversity",
+    "year": 2024,
+    "question": "Consider the following pairs :\nCountry Animal found in its natural habitat \n1. Brazil Indri \n2. Indonesia Elk \n3. Madagascar Bonobo How many of the pairs given above are correctly matched ?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 209,
+    "topic": "Biodiversity",
+    "year": 2024,
+    "question": "Consider the following statements :\n1. Lions do not have a particular breeding season.\n2. Unlike most other big cats, cheetahs do not roar.\n3. Unlike male lions, male leopards do not proclaim their territory by scent marking.\nWhich of the statements given above are correct ?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 210,
+    "topic": "Biodiversity",
+    "year": 2024,
+    "question": "Which one of the following shows a unique relationship with an insect that has coevolved with it and that is the only insect that can pollinate this tree ?",
+    "options": [
+      "Fig",
+      "Mahua",
+      "Sandalwood",
+      "Silk cotton"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 211,
+    "topic": "Biodiversity",
+    "year": 2024,
+    "question": "Consider the following :\n1. Butterflies \n2. Fish \n3. Frogs How many of the above have poisonous species among them ?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 212,
+    "topic": "Biodiversity",
+    "year": 2024,
+    "question": "Consider the following :\n1. Cashew \n2. Papaya \n3. Red sanders How many of the above trees are actually native to India ?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 213,
+    "topic": "Biodiversity",
+    "year": 2024,
+    "question": "Consider the following :\n1. Carabid beetles \n2. Centipedes \n3. Flies \n4. Termites \n5. Wasps Parasitoid species are found in how many of the above kind of organisms?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All Five"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 214,
+    "topic": "Biodiversity",
+    "year": 2024,
+    "question": "Consider the following statements Statement-I:\nThe Indian Flying Fox is placed under the \"vermin\" category in the Wild Life (Protection) Act, \n1972. Statement-II:\nThe Indian Flying Fox feeds on the blood of other animals.\nWhich one of the following is correct in respect of the above statements ?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I.",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-l is incorrect, but Statement-II is correct."
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 215,
+    "topic": "Laws and Policies",
+    "year": 2024,
+    "question": "Consider the following statements :\nStatement-I :\nThe European Parliament approved The Net-Zero Industry Act recently.\nStatement-II :\nThe European Union intends to achieve carbon neutrality by 2040 and therefore aims to develop all of its own clean technology by that time.\nWhich one of the following is correct in respect of the above statements ?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 216,
+    "topic": "Pollution",
+    "year": 2024,
+    "question": "According to the Environmental Protection Agency (EPA), which one of the following is the largest source of sulphur dioxide emissions ?",
+    "options": [
+      "Locomotives using fossil fuels",
+      "Ships using fossil fuels",
+      "Extraction of metals from ores",
+      "Power plants using fossil fuels"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 217,
+    "topic": "Pollution",
+    "year": 2024,
+    "question": "Consider the following statements :\nStatement-I :\nMany chewing gums found in the market are considered a source of environmental pollution.\nStatement-II:\nMany chewing gums contain plastic as gum base.\nWhich one of the following is correct in respect of the above statements ?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 218,
+    "topic": "Pollution",
+    "year": 2024,
+    "question": "With reference to perfluoroalkyl and polyfluoroalkyl substances (PFAS) thal are used in making many consumer product, consider the following statements :\n1. PFAS are found to be widespread in drinking water, food and food packaging material.\n2. PFAS are not easily degraded in the environment.\n3. Persistent exposure to PFAS can lead to bioaccumulation in animal bodies.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 219,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2024,
+    "question": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen?",
+    "options": [
+      "Hydrogen peroxide",
+      "Hydronium",
+      "Oxygen",
+      "Water vapour"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 220,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2024,
+    "question": "Consider the following:\n1. Battery storage \n2. Biomass generators \n3. Fuel cells \n4. Rooftop solar photovoltaic units How many of the above are considered \"Distributed Energy Resources\"?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 221,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2024,
+    "question": "Consider the following materials:\n1. Agricultural residues \n2. Corn grain \n3. Wastewater treatment sludge \n4. Wood mill waste Which of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 3 and 4 only"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 222,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2024,
+    "question": "Recently, the term \"pumped-storage hydropower\" is actually and appropriately discussed in the context of which one of the following?",
+    "options": [
+      "Irrigation of terraced crop fields",
+      "Lift irrigation of cereal crops",
+      "Long duration energy storage",
+      "Rainwater harvesting system"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 223,
+    "topic": "Unconventional Sources of Energy",
+    "year": 2024,
+    "question": "\"Membrane Bioreactors\" are often discussed in the context of:",
+    "options": [
+      "Assisted reproductive technologies",
+      "Drug delivery nanotechnologies",
+      "Vaccine production technologies",
+      "Wastewater treatment technologies"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 224,
+    "topic": "Agriculture",
+    "year": 2024,
+    "question": "Consider the following plants :\n1. Groundnut \n2. Horse-gram \n3. Soybean How many of the above belong to the pea family ?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      ""
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 225,
+    "topic": "Terms in News",
+    "year": 2024,
+    "question": "Which one of the following is the correct description of \"100 Million Farmers\" ?",
+    "options": [
+      "It is a platform for accelerating the transition towards food and water systems that are net- zero (carbon), nature-positive and that aims to increase farmer resilience.",
+      "It is an international alliance and a network of individuals and farming organisations interested in supporting and strengthening the development of the organic animal husbandry.",
+      "It is a digital platform fully integrated with service providers and built on blockchain that lets buyers, sellers and third parties trade fertilizers quickly and securely.",
+      "It is a platform with the mission of encouraging the farmers to form Farmer Product Organisations or Agribusiness Consortiums, thus facilitating the access to global open markets to sell their products."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 226,
+    "topic": "Climate Change",
+    "year": 2025,
+    "question": "Consider the following statements:\nStatement I: Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.\nStatement II: Silica-bearing clay is mixed with limestone while manufacturing cement.\nStatement III: Limestone is converted into lime during clinker production for cement manufacturing.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 227,
+    "topic": "Ecosystems",
+    "year": 2025,
+    "question": "Consider the following pairs:\nPlant – Description\nI. Cassava : Woody shrub\nII. Ginger : Herb with pseudostem\nIII. Malabar spinach : Herbaceous climber\nIV. Mint : Annual shrub\nV. Papaya : Woody shrub\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All the five"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 228,
+    "topic": "Pollution & Degradation",
+    "year": 2025,
+    "question": "Consider the following statements:\nStatement I: Activated carbon is a good and an attractive tool to remove pollutants from effluent streams and to remediate contaminants from various industries.\nStatement II: Activated carbon exhibits a large surface area and a strong potential for adsorbing heavy metals.\nStatement III: Activated carbon can be easily synthesized from environmental wastes with high carbon content.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 229,
+    "topic": "Climate Change",
+    "year": 2025,
+    "question": "Consider the following statements:\nStatement I: Article 6 of the Paris Agreement on climate change is frequently discussed in global discussions on sustainable development and climate change.\nStatement II: Article 6 of the Paris Agreement on climate change sets out the principles of carbon markets.\nStatement III: Article 6 of the Paris Agreement on climate change intends to promote inter-country non-market strategies to reach their climate targets.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 230,
+    "topic": "Climate Change",
+    "year": 2025,
+    "question": "Consider the following statements:\nStatement I: At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the “Declaration on Climate and Health”.\nStatement II: The COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector.\nStatement III: If India’s health sector is decarbonized, the resilience of its health-care system may be compromised.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 231,
+    "topic": "Terms in News",
+    "year": 2025,
+    "question": "Which one of the following launched the 'Nature Solutions Finance Hub for Asia and the Pacific'?",
+    "options": [
+      "The Asian Development Bank (ADB)",
+      "The Asian Infrastructure Investment Bank (AIIB)",
+      "The New Development Bank (NDB)",
+      "The International Bank for Reconstruction and Development (IBRD)"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 232,
+    "topic": "Pollution & Degradation",
+    "year": 2025,
+    "question": "Consider the following:\nI. Cigarette butts\nII. Eyeglass lenses\nIII. Car tyres\nHow many of them contain plastic?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 233,
+    "topic": "Pollution & Degradation",
+    "year": 2025,
+    "question": "Artificial way of causing rainfall to reduce air pollution makes use of",
+    "options": [
+      "silver iodide and potassium iodide",
+      "silver nitrate and potassium iodide",
+      "silver iodide and potassium nitrate",
+      "silver nitrate and potassium chloride"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 234,
+    "topic": "Pollution & Degradation",
+    "year": 2025,
+    "question": "With reference to Direct Air Capture, an emerging technology, which of the following statements is/are correct?\nI. It can be used as a way of carbon sequestration.\nII. It can be a valuable approach for plastic production and in food processing.\nIII. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I and II only",
+      "III only",
+      "I, II and III",
+      "None of the above statements is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 235,
+    "topic": "Climate Change",
+    "year": 2025,
+    "question": "Consider the following statements:\nStatement I: Circular economy reduces the emissions of greenhouse gases.\nStatement II: Circular economy reduces the use of raw materials as inputs.\nStatement III: Circular economy reduces wastage in the production process.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 236,
+    "topic": "Climate Change",
+    "year": 2025,
+    "question": "Consider the following statements:\nI. Carbon dioxide (CO₂) emissions in India are less than 0.5 t CO₂/capita.\nII. In terms of CO₂ emissions from fuel combustion, India ranks second in Asia-Pacific region.\nIII. Electricity and heat producers are the largest sources of CO₂ emissions in India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and III only",
+      "II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 237,
+    "topic": "Climate Change",
+    "year": 2025,
+    "question": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 °C. Which of the following statements best reflect(s) the implication of the above‐said report?\nI. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.\nII. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 238,
+    "topic": "Ecosystems",
+    "year": 2025,
+    "question": "With reference to the planet Earth, consider the following statements:\nI. Rain forests produce more oxygen than that produced by oceans.\nII. Marine phytoplankton and photosynthetic bacteria produce about 50% of world's oxygen.\nIII. Well-oxygenated surface water contains several folds higher oxygen than that in atmospheric air.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and II",
+      "II only",
+      "I and III",
+      "None of the above statements is correct"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 239,
+    "topic": "Ecosystems",
+    "year": 2025,
+    "question": "Regarding Peacock tarantula (Gooty tarantula), consider the following statements:\nI. It is an omnivorous crustacean.\nII. Its natural habitat in India is only limited to some forest areas.\nIII. In its natural habitat, it is an arboreal species.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "I and III",
+      "II only",
+      "II and III"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 240,
+    "topic": "Ecosystems",
+    "year": 2025,
+    "question": "Which organization has enacted the Nature Restoration Law (NRL) to tackle climate change and biodiversity loss?",
+    "options": [
+      "The European Union",
+      "The World Bank",
+      "The Organization for Economic Cooperation and Development",
+      "The Food and Agriculture Organization"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  }
+]

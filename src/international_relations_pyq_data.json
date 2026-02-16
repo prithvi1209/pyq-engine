@@ -1,0 +1,1432 @@
+[
+  {
+    "id": 1,
+    "topic": "International Groupings",
+    "year": 2014,
+    "question": "Consider the following countries:\n1. Denmark\n2. Japan\n3. Russian Federation\n4. United Kingdom\n5. United States of America\nWhich of the above are the members of the ‘Arctic Council‘?",
+    "options": ["1, 2 and 3", "2, 3 and 4", "1, 4 and 5", "1, 3 and 5"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 2,
+    "topic": "International Groupings",
+    "year": 2014,
+    "question": "With reference to a grouping of countries known as BRICS, consider the following statements:\n1. The First Summit of BRICS was held in Rio de Janeiro in 2009.\n2. South Africa was the last to join the BRICS grouping.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 3,
+    "topic": "International Locations",
+    "year": 2014,
+    "question": "Consider the following pairs (Region often in news : Country):\n1. Chechnya : Russian Federation\n2. Darfur : Mali\n3. Swat Valley : Iraq\nWhich of the above pairs is/are correctly matched?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 4,
+    "topic": "International Events",
+    "year": 2014,
+    "question": "Recently, a series of uprisings of people referred to as ‘Arab Spring’ originally started from",
+    "options": ["Egypt", "Lebanon", "Syria", "Tunisia"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 5,
+    "topic": "International Locations",
+    "year": 2015,
+    "question": "The area known as 'Golan Heights' sometimes appears in the news in the context of the events related to",
+    "options": [
+      "Central Asia",
+      "Middle East",
+      "South-East Asia",
+      "Central Africa"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 6,
+    "topic": "International Organizations",
+    "year": 2015,
+    "question": "Beijing Declaration and Platform for Action', often seen in the news, is",
+    "options": [
+      "a strategy to tackle the regional terrorism, an outcome of a meeting of the Shanghai Cooperation Organization.",
+      "a plan of action for sustainable economic growth in the Asia-Pacific Region, an outcome of the deliberations of the Asia-Pacific Economic Forum.",
+      "an agenda for women's empowerment, an outcome of a World Conference convened by the United Nations.",
+      "a strategy to combat wildlife trafficking, a declaration of the East Asia Summit."
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 7,
+    "topic": "International Organizations",
+    "year": 2015,
+    "question": "The 'Fortaleza Declaration', recently in the news, is related to the affairs of",
+    "options": ["ASEAN", "BRICS", "OECD", "WTO"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 8,
+    "topic": "International Organizations",
+    "year": 2015,
+    "question": "India is member of which among the following?\n1. Asia-Pacific Economic Cooperation \n2. Association of South-East Asian Nations \n3. East Asia Summit \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3",
+      "India is a member of none of them"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 9,
+    "topic": "International Organizations",
+    "year": 2015,
+    "question": "In the Mekong-Ganga Cooperation, an initiative of six countries, which of the following is/are not a participant/ participants?\n1. Bangladesh \n2. Cambodia \n3. China \n4. Myanmar \n5. Thailand \nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2, 3 and 4", "1 and 3", "1, 2 and 5"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 10,
+    "topic": "International Organizations",
+    "year": 2015,
+    "question": "Amnesty International is",
+    "options": [
+      "an agency of the United Nations to help refugees of civil wars",
+      "a global Human Rights Movement",
+      "a non-governmental voluntary organization to help very poor people",
+      "an inter-governmental agency to cater to medical emergencies in war-ravaged regions"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 11,
+    "topic": "International Security",
+    "year": 2015,
+    "question": "Consider the following countries:\n1. China \n2. France \n3. India \n4. Israel \n5. Pakistan Which among the above are Nuclear Weapons States as recognized by the Treaty on the Non- Proliferation of Nuclear Weapons, commonly known as Nuclear Non-Proliferation Treaty (NPT)?",
+    "options": [
+      "1 and 2 only",
+      "1, 3, 4 and 5 only",
+      "2, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 12,
+    "topic": "International Treaties & Conventions",
+    "year": 2015,
+    "question": "Among the following, which were frequently mentioned in the news for the outbreak of Ebola virus recently ?",
+    "options": [
+      "Syria and Jordan",
+      "Guinea, Sierra Leone and Liberia",
+      "Philippines and Papua New Guinea",
+      "Jamaica, Haiti and Suriname"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 13,
+    "topic": "International Treaties & Conventions",
+    "year": 2015,
+    "question": "With reference to the 'Indian Ocean Rim Association for Regional Cooperation (IOR-ARC)', consider the following statements:\n1. It was established very recently in response to incidents of piracy and accidents of oil spills.\n2. It is an alliance meant for maritime security only.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 14,
+    "topic": "International Organizations",
+    "year": 2016,
+    "question": "Which of the following is/are the indicator/ indicators used by IFPRI to compute the Global Hunger Index Report?\n1. Undernourishment \n2. Child stunting \n3. Child mortality \nSelect the correct answer using the code given below.",
+    "options": ["1 only 52", "2 and 3 only", "1, 2 and 3", "1 and 3 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 15,
+    "topic": "International Organizations",
+    "year": 2016,
+    "question": "The term 'Regional Comprehensive Economic Partnership' often appears in the news in the' context of the affairs of a group of countries known as",
+    "options": ["G2O", "ASEAN", "SCO", "SAARC"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 16,
+    "topic": "International Organizations",
+    "year": 2016,
+    "question": "Which of the following is not a member of 'Gulf Cooperation Council'?",
+    "options": ["Iran", "Saudi Arabia", "Oman", "Kuwait"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 17,
+    "topic": "International Organizations",
+    "year": 2016,
+    "question": "Doctors Without Borders (Medecins Sans Frontieres)', often in the news, is",
+    "options": [
+      "a division of World Health Organization",
+      "a non-governmental international organization",
+      "an inter-governmental agency sponsored by European Union",
+      "a specialized agency of the United Nations"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 18,
+    "topic": "International Organizations",
+    "year": 2016,
+    "question": "Consider the following statements:\nThe India-Africa Summit \n1. held in 2015 was the third such Summit \n2. was actually initiated by Jawaharlal Nehru in 1951 \nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 19,
+    "topic": "International Trade",
+    "year": 2016,
+    "question": "With reference to the 'Trans-Pacific Partnership', consider the following statements:\n1. It is an agreement among all the Pacific Rim countries except China and Russia.\n2. It is a strategic alliance for the purpose of maritime security only.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 20,
+    "topic": "International Trade",
+    "year": 2016,
+    "question": "Consider the following statements:\n1. New Development Bank has been set up by APEC.\n2. The headquarters of New Development Bank is in Shanghai.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 21,
+    "topic": "International Security",
+    "year": 2016,
+    "question": "With reference to 'Organization for the Prohibition of Chemical Weapons (OPCW)', consider the following statements:\n1. It is an organization of European Union in working relation with NATO and WHO.\n2. It monitors chemical industry to prevent new weapons from emerging.\n3. It provides assistance and protection to States (Parties) against chemical weapons threats.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 22,
+    "topic": "International Treaties & Conventions",
+    "year": 2016,
+    "question": "Consider the following pairs:\nCommunity sometimes mentioned in the news :\nIn the affairs of \n1. Kurd :\nBangladesh \n2. Madhesi :\nNepal \n3. Rohingya :\nMyanmar Which of the pairs given above is/are correctly matched?",
+    "options": ["1 and 2", "2 only", "2 and 3", "3 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 23,
+    "topic": "International Treaties & Conventions",
+    "year": 2016,
+    "question": "Belt and Road Initiative' is sometimes mentioned in the news in the context of the affairs of",
+    "options": ["African Union", "Brazil", "European Union", "China"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 24,
+    "topic": "International Treaties & Conventions",
+    "year": 2016,
+    "question": "Consider the following statements :\n1. The International Solar Alliance was launched at the United Nations Climate Change Conference in \n2015. 2.\nThe Alliance includes all the member countries of the United Nations.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 25,
+    "topic": "International Locations",
+    "year": 2017,
+    "question": "What is the importance of developing Chabahar Port by India?",
+    "options": [
+      "India's trade with African countries will enormously increase.",
+      "India's relations with oil-producing Arab countries will be strengthened.",
+      "India will not depend on Pakistan for access to Afghanistan and Central Asia.",
+      "Pakistan will facilitate and protect the installation of a gas pipeline between Iraq and India."
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 26,
+    "topic": "International Organizations",
+    "year": 2017,
+    "question": "Which of the following gives 'Global Gender Gap Index' ranking to the countries of the world?",
+    "options": [
+      "World Economic Forum",
+      "UN Human Rights Council",
+      "UN Women",
+      "World Health Organization"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 27,
+    "topic": "International Trade",
+    "year": 2017,
+    "question": "Broad-based Trade and Investment Agreement (BTIA)' is sometimes seen in the news in the context of negotiations held between India and",
+    "options": [
+      "European Union",
+      "Gulf Cooperation Council",
+      "Organization for Economic Cooperation and Development",
+      "Shanghai Cooperation Organization"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 28,
+    "topic": "International Trade",
+    "year": 2017,
+    "question": "The term 'Digital Single Market Strategy' seen in the news refers to",
+    "options": ["ASEAN", "BRICS", "EU", "G20"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 29,
+    "topic": "International Trade",
+    "year": 2017,
+    "question": "The Global Infrastructure Facility is a/an:",
+    "options": [
+      "ASEAN initiative to upgrade infrastructure in Asia and financed by credit from the Asian Development Bank.",
+      "World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public-Private Partnership (PPPs) to enable mobilization of private sector and institutional investor capital.",
+      "Collaboration among the major banks of the world working with the OECD and infrastructure projects that have the potential to mobilize private investment.",
+      "UNCTAD funded initiative that seeks to finance and facilitate infrastructure development in the World."
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 30,
+    "topic": "International Security",
+    "year": 2017,
+    "question": "Consider the following statements:\n1. The Nuclear Security Summits are periodically held under the aegis of the United Nations.\n2. The International Panel on Fissile Materials is an organ of the International Atomic Energy Agency.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 31,
+    "topic": "International Security",
+    "year": 2017,
+    "question": "Consider the following in respect of Indian Ocean Naval Symposium (IONS):\n1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.\n2. IONS is a voluntary initiative that seeks to increase maritime cooperation among navies of the littoral states of the Indian Ocean Region.\nWhich of the above statements is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 32,
+    "topic": "International Locations",
+    "year": 2018,
+    "question": "Consider the following pairs:\nRegions sometimes mentioned in news :\nCountry \n1. Catalonia :\nSpain \n2. Crimea :\nHungary \n3. Mindanao :\nPhilippines \n4. Oromia :\nNigeria Which of the pairs given above are correctly matched?",
+    "options": ["1, 2 and 3", "3 and 4 only", "1 and 3 only", "2 and 4 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 33,
+    "topic": "International Locations",
+    "year": 2018,
+    "question": "Very recently, in which of the following countries have lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts?",
+    "options": [
+      "Angola and Zambia",
+      "Morocco and Tunisia",
+      "Venezuela and Colombia",
+      "Yemen and South Sudan"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 34,
+    "topic": "International Locations",
+    "year": 2018,
+    "question": "Consider the following pairs:\nTowns sometimes mentioned in news :\nCountry \n1. Aleppo :\nSyria \n2. Kirkuk :\nYemen \n3. Mosul :\nPalestine \n4. Mazar-i-sharif :\nAfghanistan Which of the pairs given above are correctly matched?",
+    "options": ["1 and 2", "1 and 4", "2 and 3", "3 and 4"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 35,
+    "topic": "International Organizations",
+    "year": 2018,
+    "question": "\"Rule of Law Index\" is released by which of the following?",
+    "options": [
+      "Amnesty International",
+      "International Court of Justice",
+      "The Office of UN Commissioner for Human Rights",
+      "World Justice Report"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 36,
+    "topic": "International Organizations",
+    "year": 2018,
+    "question": "International Labour Organization's Convention 138 and 182 are related to",
+    "options": [
+      "Child labour",
+      "Adaptation of agricultural practices to global climate change",
+      "Regulation of food prices and food security",
+      "Gender parity at the workplace"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 37,
+    "topic": "International Trade",
+    "year": 2018,
+    "question": "Consider the following countries:\n1. Australia \n2. Canada \n3. China \n4. India \n5. Japan \n6. USA \nWhich of the above are among the 'free-trade partners' of ASEAN?",
+    "options": [
+      "1, 2, 4 and 5",
+      "3, 4, 5 and 6",
+      "1, 3, 4 and 5",
+      "2, 3, 4 and 6"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 38,
+    "topic": "International Security",
+    "year": 2018,
+    "question": "What is/are the consequence/consequences of a country becoming the member of the 'Nuclear Suppliers Group'?\n1. It will have access to the latest and most efficient nuclear technologies.\n2. It automatically becomes a member of \"The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)\".\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 39,
+    "topic": "International Security",
+    "year": 2018,
+    "question": "In the Indian context, what is the implication of ratifying the 'Additional Protocol' with the 'International Atomic Energy Agency (IAEA)'?",
+    "options": [
+      "The civilian nuclear reactors come under IAEA safeguards.",
+      "The military nuclear installations come under the inspection of IAEA.",
+      "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).",
+      "The country automatically becomes a member of the NSG."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 40,
+    "topic": "International Treaties & Conventions",
+    "year": 2018,
+    "question": "The term \"two-state solution\" is sometimes mentioned in the news in the context of the affairs of",
+    "options": ["China", "Israel", "Iraq", "Yemen"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 41,
+    "topic": "International Organizations",
+    "year": 2019,
+    "question": "The Global Competitiveness Report is published by the",
+    "options": [
+      "International Monetary Fund",
+      "United Nations Conference on Trade and Development",
+      "World Economic Forum",
+      "World Bank"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 42,
+    "topic": "International Organizations",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. The United Nations Convention against Corruption (UNCAC) has a 'Protocol against the Smuggling of Migrants by Land, Sea and Air.\n2. The UNCAC is the ever-first legally binding global anti-corruption instrument.\n3. A highlight of the United Nations Convention against Transnational Organized Crime (UNTOC) is the inclusion of a specific chapter aimed at returning assets to their rightful owners from whom they had been taken illicitly.\n4. The United Nations Office on Drugs and Crime (UNODC) is mandated by its member States to assist in the implementation of both UNCAC and UNTOC.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 43,
+    "topic": "International Trade",
+    "year": 2019,
+    "question": "With reference to Asian Infrastructure Investment Bank (AIIB), consider the following statements:\n1. AIIB has more than 80 member nations.\n2. India is the largest shareholder in AIIB.\n3. AIIB does not have any members from outside Asia.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 44,
+    "topic": "International Security",
+    "year": 2019,
+    "question": "Recently, India signed a deal known as 'Action Plan for Prioritization and Implementation of Cooperation Areas in the Nuclear Field' with which of the following countries?",
+    "options": [
+      "Japan",
+      "Russia",
+      "The United Kingdom",
+      "The United States of America"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 45,
+    "topic": "International Security",
+    "year": 2019,
+    "question": "Which of the following adopted a law on data protection and privacy for its citizens known as 'General Data Protection Regulation' in April 2016 and started implementation of its from 25th May, 2018?",
+    "options": [
+      "Australia",
+      "Canada",
+      "The European Union",
+      "The United States of America"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 46,
+    "topic": "International Locations",
+    "year": 2020,
+    "question": "Siachen Glacier is situated to the",
+    "options": [
+      "East of Aksai Chin",
+      "East of Leh",
+      "North of Gilgit",
+      "North of Nubra Valley"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 47,
+    "topic": "International Organizations",
+    "year": 2020,
+    "question": "In which one of the following groups are all the four countries members of G20?",
+    "options": [
+      "Argentina, Mexico, South Africa and Turkey",
+      "Australia, Canada, Malaysia and New Zealand",
+      "Brazil, Iran, Saudi Arabia and Vietnam",
+      "Indonesia, Japan, Singapore and South Korea"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 48,
+    "topic": "International Trade",
+    "year": 2020,
+    "question": "Consider the following statements:\n1. The value of Indo-Sri Lanka trade has consistently increased in the last decade.\n2. \"Textile and textile articles\" constitute an important item of trade between India and Bangladesh.\n3. In the last five years, Nepal has been the largest trading partner of India in South Asia.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2 only", "2 only", "3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 49,
+    "topic": "International Security",
+    "year": 2020,
+    "question": "In India, why are some nuclear reactors kept under \"IAEA Safeguards\" while others are not?",
+    "options": [
+      "Some use uranium and others use thorium",
+      "Some use imported uranium and others use domestic supplies.",
+      "Some are operated by foreign enterprises and others are operated by domestic enterprises",
+      "Some are State-owned and others are privately-owned"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 50,
+    "topic": "International Treaties & Conventions",
+    "year": 2020,
+    "question": "Consider the following pairs International agreement/set-up :\nSubject \n1. Alma Ata Declaration :\nHealthcare of the people \n2. Hague Convention :\nBiological and chemical weapons \n3. Talanoa Dialogue :\nGlobal climate change \n4. Under2 Coalition :\nChild rights Which of the pairs given above is/are correctly matched?",
+    "options": ["1 and 2 only", "4 only", "1 and 3 only", "2, 3 and 4 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 51,
+    "topic": "International Treaties & Conventions",
+    "year": 2021,
+    "question": "Consider the following statements:\n1. 'Right to the City' is an agreed human right and the UN-Habitat monitors the commitments made by each country in this regard.\n2. 'Right to the City' gives every occupant of the city right to reclaim public spaces and public participation in the city.\n3. 'Right to the City' means that the State cannot deny any public service or facility to the unauthorized colonies in the city.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "3 only", "1 and 2", "2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 52,
+    "topic": "International Locations",
+    "year": 2022,
+    "question": "Consider the following countries :\n1. Azerbaijan \n2. Kyrgyzstan \n3. Tajikistan \n4. Turkmenistan \n5. Uzbekistan \nWhich of the above have borders with Afghanistan ?",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 2, 3 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 53,
+    "topic": "International Locations",
+    "year": 2022,
+    "question": "Consider the following pairs:\nCountry :\nImportant reason for being in the news recently \n1. Chad :\nSetting up of permanent military base by China \n2. Guinea :\nSuspension of Constitution and Government by military \n3. Lebanon :\nSevere and prolonged economic depression \n4. Tunisia :\nSuspension of Parliament by President How many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 54,
+    "topic": "International Locations",
+    "year": 2022,
+    "question": "Consider the following pairs:\nRegion often mentioned in the news :\nCountry \n1. Anatolia :\nTurkey \n2. Amhara :\nEthiopia \n3. Cabo Delgado :\nSpain \n4. Catalonia :\nItaly How many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 55,
+    "topic": "International Locations",
+    "year": 2022,
+    "question": "Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?",
+    "options": [
+      "It is generally believed that they are artificial islands made by a country around the South China Sea.",
+      "China and Japan engage in maritime disputes over these islands in the East China Sea.",
+      "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.",
+      "Though the International Court of Justice declared them as no man's land, some South-East Asian countries claim them."
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 56,
+    "topic": "International Locations",
+    "year": 2022,
+    "question": "The term \"Levant\" often heard in the news roughly corresponds to which of the following regions ?",
+    "options": [
+      "Region along the eastern Mediterranean shores",
+      "Region along North African shores stretching from Egypt to Moroccoelimi",
+      "Region along Persian Gulf and Horn of Africa",
+      "The entire coastal areas of Mediterranean Sea"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 57,
+    "topic": "International Organizations",
+    "year": 2022,
+    "question": "With reference to the \"United Nations Credentials Committee\", consider the following statements:\n1. It is a committee set up by the UN Security Council and works under its supervision.\n2. It traditionally meets in March, June and September every year.\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\nWhich of the statements given above is/are correct?",
+    "options": ["3 only", "1 and 3", "2 and 3", "1 and 2"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 58,
+    "topic": "International Organizations",
+    "year": 2022,
+    "question": "With reference to the United National Convention on the Law of Sea, consider the following statements:\n1. A coastal state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention.\n2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea.\n3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 59,
+    "topic": "International Organizations",
+    "year": 2022,
+    "question": "With reference to the United Nations General Assembly, consider the following statements:\n1. The UN General Assembly can grant observer status to the non-member States.\n2. Inter-governmental organizations can seek observer status in the UN General Assembly.\n3. Permanent Observers in the UN General Assembly can maintain mission at the UN headquarters \nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 60,
+    "topic": "International Organizations",
+    "year": 2022,
+    "question": "Consider the following:\n1. Asian Infrastructure Investment Bank \n2. Missile Technology Control Regime \n3. Shanghai Cooperation Organisation India is a member of \nwhich of the above?",
+    "options": ["1 and 2 only", "3 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 61,
+    "topic": "International Organizations",
+    "year": 2022,
+    "question": "Consider the following countries:\n1. Armenia \n2. Azerbaijan \n3. Croatia \n4. Romania \n5. Uzbekistan \nWhich of the above are members of the Organization of Turkic States?",
+    "options": ["1, 2 and 4", "1 and 3", "2 and 5", "3, 4 and 5"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 62,
+    "topic": "International Trade",
+    "year": 2022,
+    "question": "With reference to the \"G20 Common Framework\", consider the following statements:\n1. It is an initiative endorsed by the G20 together with the Paris Club.\n2. It is an initiative to support Low Income Countries with unsustainable debt.\nWhich of the statements given above is/are correct ?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 63,
+    "topic": "International Treaties & Conventions",
+    "year": 2022,
+    "question": "Consider the following statements:\n1. Vietnam has been one of the fastest growing economies in the world in the recent years.\n2. Vietnam is led by a multi-party political system.\n3. Vietnam's economic growth is linked to its integration with global supply chains and focus on exports.\n4. For a long time Vietnam's low labour costs and stable exchange rates have attracted global manufacturers.\n5. Vietnam has the most productive e-service sector in the Indo-Pacific region.\nWhich of the statements given above are correct?",
+    "options": ["2 and 4", "3 and 5", "1, 3 and 4", "1 and 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 64,
+    "topic": "International Treaties & Conventions",
+    "year": 2022,
+    "question": "Consider the following statements:\n1. Bidibidi is a large refugee settlement in north-western Kenya.\n2. Some people who fled from South Sudan civil war live in Bidibidi.\n3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2", "2 only", "2 and 3", "3 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 65,
+    "topic": "International Locations",
+    "year": 2023,
+    "question": "Which one of the following countries has been suffering from decades of civil strife and food shortages and was in news in the recent past for its very severe famine?",
+    "options": ["Angola", "Costa Rica", "Ecuador", "Somalia"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 66,
+    "topic": "International Locations",
+    "year": 2023,
+    "question": "In the recent years Chad, Guinea, Mali and Sudan caught the international attention for which one of the following reasons common to all of them?",
+    "options": [
+      "Discovery of rich deposits of rare earth elements",
+      "Establishment of Chinese Military bases",
+      "Southward expansion of Sahara Desert",
+      "Successful coups"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 67,
+    "topic": "International Locations",
+    "year": 2023,
+    "question": "Consider the following pairs:\nArea of conflict mentioned in news :\nCountry where it is located \n1. Donbas :\nSyria \n2. Kachin :\nEthiopia \n3. Tigray :\nNorth Yemen How many of the above pairs are correctly matched?",
+    "options": ["Only one", "Only two", "All three", ""],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 68,
+    "topic": "International Locations",
+    "year": 2023,
+    "question": "Consider the following pairs :\nRegions often :\nReason for being in news \n1. North Kivu and Ituri :\nWar between Armenia and Azerbaijan \n2. Nagorno-Karabakh :\nInsurgency in Mozambique \n3. Kherson and Zaporizhzhia :\nDispute between Israel and Lebanon How many of the above pairs are correctly matched ?",
+    "options": ["Only one", "Only Two", "All three", ""],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 69,
+    "topic": "International Trade",
+    "year": 2023,
+    "question": "Consider the following statements about G-20 :\n1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.\n2. Digital public infrastructure is one of India's G-20 priorities.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 70,
+    "topic": "International Trade",
+    "year": 2023,
+    "question": "Consider the following statements :\nThe 'Stability and Growth Pact' of the European Union is a treaty that \n1. limits the levels of the budgetary deficit of the countries of the European Union \n2. makes the countries of the European Union to share their infrastructure facilities \n3. enables the countries of the European Union to share their How many of the above state ments are correct?",
+    "options": ["Only one", "Only two", "All three", ""],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 71,
+    "topic": "International Treaties & Conventions",
+    "year": 2023,
+    "question": "Consider the following statements :\nStatement-I :\nIsrael has established diplomatic relations with some Arab States.\nStatement-II :\nThe 'Arab Peace Initiative' mediated by Saudi Arabia was signed by Israel and Arab League.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 72,
+    "topic": "International Treaties & Conventions",
+    "year": 2023,
+    "question": "Consider the following statement :\n1. Recently, all the countries of the United Nations have adopted the first-ever compact for international migration, the 'Global Compact for Safe, Orderly and Regular Migration (GCM)'.\n2. The objectives and commitments stated in the GCM are binding on the UN member countries.\n3. The GCM addresses internal migration or internally displaced people also in its objectives and commitments.\nHow many of the above state ments are correct?",
+    "options": ["Only one", "Only two", "All three", ""],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 73,
+    "topic": "International Locations",
+    "year": 2024,
+    "question": "Consider the following statements :\nStatement-I :\nSumed pipeline is a strategic route for Persian Gulf oil and natural gas shipments to Europe.\nStatement-II :\nSumed pipeline connects the Red Sea with the Mediterranean Sea.\nWhich one of the following is correct in respect of the above statements ?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 74,
+    "topic": "International Locations",
+    "year": 2024,
+    "question": "Consider the following pairs :\nCountry :\nReason for being in the news \n1. Argentina :\nWorst economic crisis \n2. Sudan :\nWar between the country's regular and paramilitary forces \n3. Turkey :\nRescinded its membership of NATO How many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 75,
+    "topic": "International Locations",
+    "year": 2024,
+    "question": "Consider the following statements :\nStatement-I :\nThere is instability and worsening security situation in the Sahel region.\nStatement-II :\nThere have been military takeovers/coups d'etat in several countries of the Sahel region in the recent past.\nWhich one of the following is correct in respect of the above statements ?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 76,
+    "topic": "International Organizations",
+    "year": 2024,
+    "question": "Consider the following statements regarding World Toilet Organization :\n1. It is one of the agencies of the United Nations.\n2. World Toilet Summit, World Toilet Day and World Toilet College are the initiatives of this organization, to inspire action to tackle the global sanitation crisis.\n3. The main focus of its function is to grant funds to the least developed countries and developing countries to achieve the end of open defecation.\nWhich of the statements given above is/are correct ?",
+    "options": ["2 only", "3 only", "1 and 2", "2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 77,
+    "topic": "International Organizations",
+    "year": 2024,
+    "question": "Consider the following statements :\n1. India is a member of the International Grains Council.\n2. A country needs to be a member of the International Grains Council for exporting or importing rice and wheat.\nWhich of the statements given above is/are correct ?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 78,
+    "topic": "International Security",
+    "year": 2024,
+    "question": "Which of the following statements about 'Exercise Mitra Shakti-2023' are correct?\n1. This was a joint military exercise between India and Bangladesh.\n2. It commenced in Aundh ( ).\n3. Joint response during counter-terrorism operations was a goal of this operation.\n4. Indian Air Force was a part of this exercise.\nSelect the correct answer using the code given below :",
+    "options": ["1, 2 and 3", "1, 2 and 4", "1, 3 and 4", "2, 3 and 4"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 79,
+    "topic": "International Groupings",
+    "year": 2025,
+    "question": "Consider the following statements with regard to BRICS:\nI. 16th BRICS Summit was held under the Chairship of Russia in Kazan.\nII. Indonesia has become a full member of BRICS.\nIII. The theme of the 16th BRICS Summit was Strengthening Multiculturalism for Just Global Development and Security.\nWhich of the statements given above is/are correct?",
+    "options": ["I and II", "II and III", "I and III", "I only"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 80,
+    "topic": "International Locations",
+    "year": 2025,
+    "question": "India is one of the founding members of the International North-South Transport Corridor (INSTC), a multimodal transportation corridor, which will connect",
+    "options": [
+      "India to Central Asia to Europe via Iran",
+      "India to Central Asia via China",
+      "India to South-East Asia through Bangladesh and Myanmar",
+      "India to Europe through Azerbaijan"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 81,
+    "topic": "International Groupings",
+    "year": 2025,
+    "question": "Consider the following countries:\nI. Austria\nII. Bulgaria\nIII. Croatia\nIV. Serbia\nV. Sweden\nVI. North Macedonia\nHow many of the above are members of the North Atlantic Treaty Organization (NATO)?",
+    "options": ["Only three", "Only four", "Only five", "All the six"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 82,
+    "topic": "International Events",
+    "year": 2025,
+    "question": "Consider the following pairs:\nI. International Year of the Woman Farmer : 2026\nII. International Year of Sustainable and Resilient Tourism : 2027\nIII. International Year of Peace and Trust : 2025\nIV. International Year of Asteroid Awareness and Planetary Defence : 2029\nHow many of the pairs given above are correctly matched?",
+    "options": ["Only one", "Only two", "Only three", "All the four"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 83,
+    "topic": "International Events",
+    "year": 2025,
+    "question": "Consider the following statements regarding AI Action Summit held in Grand Palais, Paris in February 2025:\nI. Co-chaired with India, the event builds on the advances made at the Bletchley Park Summit held in 2023 and the Seoul Summit held in 2024.\nII. Along with other countries, US and UK also signed the declaration on inclusive and sustainable AI.\nWhich of the statements given above is/are correct?",
+    "options": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 84,
+    "topic": "International Groupings",
+    "year": 2025,
+    "question": "Consider the following statements in respect of BIMSTEC:\nI. It is a regional organization consisting of seven member States till January 2025.\nII. It came into existence with the signing of the Dhaka Declaration, 1997.\nIII. Bangladesh, India, Sri Lanka, Thailand and Nepal are founding member States.\nIV. In BIMSTEC, the subsector of tourism is being led by India.\nWhich of the statements given above is/are correct?",
+    "options": ["I and II", "II and III", "I and IV", "I only"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  }
+]

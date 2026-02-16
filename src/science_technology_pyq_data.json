@@ -1,0 +1,2482 @@
+[
+  {
+    "id": 1,
+    "topic": "General Science - Biology",
+    "year": 2013,
+    "question": "Consider the following animals:\n1. Sea cow\n2. Sea horse\n3. Sea lion\nWhich of the above is/are mammal/mammals?",
+    "options": ["1 only", "1 and 3 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 2,
+    "topic": "General Science - Biology",
+    "year": 2013,
+    "question": "Many transplanted seedlings do not grow because -",
+    "options": [
+      "The new soil does not contain favourable minerals",
+      "Most of the root hairs grip the new soil too hard",
+      "Most of the root hairs are lost during the transplantation",
+      "Leaves get damaged during the plantation"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 3,
+    "topic": "Biotechnology",
+    "year": 2013,
+    "question": "Mycorrhizal Biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to -\n1. Resist drought and increase absorptive area\n2. Tolerate extremes of pH\n3. Resist disease infestation\nSelect the correct answer using the codes given below:",
+    "options": ["1 only", "1 and 2 only", "1, 2 and 3 only", "2 and 3 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 4,
+    "topic": "General Science - Physics",
+    "year": 2013,
+    "question": "Consider the following phenomena:\n1. Size of the sun at dusk\n2. Colour of the sun at dawn\n3. Moon being visible at dawn\n4. The twinkle of stars in the sky\n5. Polestar being visible in the sky\nWhich of the above are optical illusions?",
+    "options": ["1, 2 and 3", "3, 4 and 5", "1, 2 and 4", "2, 3 and 5"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 5,
+    "topic": "Human Body & Nutrition",
+    "year": 2013,
+    "question": "Consider the following minerals -\n1. Calcium\n2. Iron\n3. Sodium\nWhich of the minerals given above is/are required by the human body for the contraction of muscles?",
+    "options": ["1 only", "1 and 2 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 6,
+    "topic": "Biotechnology",
+    "year": 2013,
+    "question": "Recombinant DNA technology (Genetic Engineering) allows genes to be transferred\n1. Across different species of plants.\n2. From animals to plants.\n3. From microorganisms to higher organisms.\nSelect the correct answer using the codes given below.",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 7,
+    "topic": "Human Health & Diseases",
+    "year": 2013,
+    "question": "Improper handling and storage of cereal grains and oilseeds result in the production of toxins known as aflatoxins which are not generally destroyed by normal cooking process. Aflatoxins are produced by",
+    "options": ["bacteria", "protozoa", "moulds", "viruses"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 8,
+    "topic": "General Science - Physics",
+    "year": 2013,
+    "question": "Ball bearings are used in bicycles, cars, etc., because",
+    "options": [
+      "the actual area of contact between the wheel and axle is increased",
+      "the effective area of contact between the wheel and axle is increased",
+      "the effective area of contact between the wheel and axle is reduced",
+      "None of the above statements is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 9,
+    "topic": "General Science - Physics",
+    "year": 2013,
+    "question": "During a thunderstorm, the thunder in the skies is produced by the\n1. Meeting of cumulonimbus clouds in the sky\n2. Lightning that separates the nimbus clouds\n3. Violent upward movement of air and water particles\nSelect the correct answer using the codes given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "None of the above produces the thunder"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 10,
+    "topic": "General Science - Physics",
+    "year": 2013,
+    "question": "Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena are responsible for this?\n1. Dispersion\n2. Refraction\n3. Internal reflection\nSelect the correct answer using the codes given below.",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 11,
+    "topic": "General Science - Physics",
+    "year": 2013,
+    "question": "The efforts to detect the existence of Higgs boson particle have become frequent news in the recent past. What is/are the importance of discovering this particle?\n1. It will enable us to understand as to why elementary particles have mass.\n2. It will enable us in the near future to develop the technology to transferring matter from one point to another without traversing the physical space between them.\n3. It will enable us to create better fuels for nuclear fission.\nSelect the correct answer using the codes given below:",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 12,
+    "topic": "Human Health & Diseases",
+    "year": 2013,
+    "question": "Which of the following diseases can be transmitted from one person to another through tattooing?\n1. Chikungunya\n2. Hepatitis B\n3. HIV-AIDS\nSelect the correct answer using the codes given below.",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 13,
+    "topic": "General Science - Biology",
+    "year": 2013,
+    "question": "Which of the following statements is/are correct?\n1. Viruses lack enzymes necessary for the generation of energy.\n2. Viruses can be cultured in any synthetic medium.\n3. Viruses are transmitted from one organism to another by biological vectors only.\nSelect the correct answer using the codes given below.",
+    "options": ["1 only", "1 and 2 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 14,
+    "topic": "General Science - Biology",
+    "year": 2013,
+    "question": "Fruits stored in a cold chamber exhibit longer storage life because -",
+    "options": [
+      "exposure to sunlight is prevented",
+      "concentration of carbon dioxide in the environment is increased",
+      "rate of respiration is decreased",
+      "there is an increase in humidity"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 15,
+    "topic": "Energy & Fuels",
+    "year": 2013,
+    "question": "With reference to the usefulness of the by-products of the sugar industry, which of the following statements is/are correct?\n1. Bagasse can be used as biomass fuel for the generation of energy.\n2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers.\n3. Molasses can be used for the production of ethanol.\nSelect the correct answer using the codes given below.",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 16,
+    "topic": "General Science - Physics",
+    "year": 2013,
+    "question": "The known forces of nature can be divided into four classes, viz, gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct?",
+    "options": [
+      "Gravity is the strongest of the four",
+      "Electromagnetism act only on particles with an electric charge",
+      "Weak nuclear force causes radioactivity",
+      "Strong nuclear force holds protons and neutrons inside the nucleus of an atom"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 17,
+    "topic": "Space Technology",
+    "year": 2014,
+    "question": "Which of the following pair is/are correctly matched?\nSpacecraft : Purpose\n1. Cassini-Huygens : Orbiting Venus and transmitting data to the Earth\n2. Messenger : Mapping and investigating the Mercury\n3. Voyager 1 and 2 : Exploring the outer solar system\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 18,
+    "topic": "General Science - Biology",
+    "year": 2014,
+    "question": "Which of the following statements is/are correct regarding vegetative propagation of plants?\n1. Vegetative propagation produces clonal population.\n2. Vegetative propagation helps in eliminating the virus.\n3. Vegetative propagation can be practised most of the year.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 19,
+    "topic": "Information Technology",
+    "year": 2014,
+    "question": "In addition to fingerprint scanning, which of the following can be used in the biometric identification of a person?\n1. Iris scanning\n2. Retinal scanning\n3. Voice recognition\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 20,
+    "topic": "General Science - Chemistry",
+    "year": 2014,
+    "question": "Which of the following is/are the example/examples of chemical change?\n1. Crystallization of sodium chloride\n2. Melting of ice\n3. Souring of milk\nSelect the correct answer using the code given below.",
+    "options": ["1 and 2 only", "3 only", "1, 2 and 3", "None"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 21,
+    "topic": "General Science - Biology",
+    "year": 2014,
+    "question": "Consider the following:\n1. Bats\n2. Bears\n3. Rodents\nThe phenomenon of hibernation can be observed in which of the above kinds of animals?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1, 2 and 3",
+      "Hibernation cannot be observed in any of the above"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 22,
+    "topic": "Defence Technology",
+    "year": 2014,
+    "question": "With reference to Agni-IV Missile, which of the following statements is/are correct?\n1. It is a surface-to-surface missile.\n2. It is fuelled by liquid propellant only.\n3. It can deliver one-tonne nuclear warheads about 7500 km away.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 23,
+    "topic": "Human Health & Diseases",
+    "year": 2014,
+    "question": "Consider the following diseases\n1. Diphtheria\n2. Chickenpox\n3. Smallpox\nWhich of the above diseases has/have been eradicated in India?",
+    "options": ["1 and 2 only", "3 only", "1, 2 and 3", "None"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 24,
+    "topic": "General Science - Biology",
+    "year": 2014,
+    "question": "Among the following organisms, which one does not belong to the class of the other three?",
+    "options": ["Crab", "Mite", "Scorpion", "Spider"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 25,
+    "topic": "Biotechnology",
+    "year": 2014,
+    "question": "Consider the following techniques/phenomena:\n1. Budding and grafting in fruit plants\n2. Cytoplasmic male sterility\n3. Gene silencing\nWhich of the above is/are used to create transgenic crops?",
+    "options": ["1 only", "2 and 3", "1 and 3", "None"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 26,
+    "topic": "Human Body & Nutrition",
+    "year": 2014,
+    "question": "Consider the following pairs :\nVitamin : Deficiency disease\n1. Vitamin C : Scurvy\n2. Vitamin D : Rickets\n3. Vitamin E : Night blindness\nWhich of the pairs given above is/are correctly matched?",
+    "options": ["1 and 2 only", "3 only", "1, 2 and 3", "None"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 27,
+    "topic": "General Science - Biology",
+    "year": 2014,
+    "question": "Which one of the following is the process involved in photosynthesis?",
+    "options": [
+      "Potential energy is released to form free energy",
+      "Free energy is converted into potential energy and stored",
+      "Food is oxidized to release carbon dioxide and water",
+      "Oxygen is taken, and carbon dioxide and water vapour are given out"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 28,
+    "topic": "Microorganisms",
+    "year": 2015,
+    "question": "H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases?",
+    "options": ["AIDS", "Bird flu", "Dengue", "Swine flu"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 29,
+    "topic": "Space Science",
+    "year": 2015,
+    "question": "The term \"Goldilocks Zone' is often seen in the news in the context of",
+    "options": [
+      "the limits of habitable zone above the surface of the Earth",
+      "regions inside the Earth where shale gas is available",
+      "search for the Earth-like planets in outer space",
+      "search for meteorites containing precious metals"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 30,
+    "topic": "Communication Technologies",
+    "year": 2015,
+    "question": "With reference to \"Near Field Communication (NFC) Technology', which of the following statements is/are correct?\n1. It is a contactless communication technology that uses electromagnetic radio fields.\n2. NFC is designed for use by devices which can be at a distance of even a meter from each other.\n3. NFC can use encryption when sending sensitive information.\nSelect the correct answer using the codes given below.",
+    "options": ["1 and 2 only", "3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 31,
+    "topic": "Energy-Related Technology",
+    "year": 2015,
+    "question": "With reference to \"fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity, consider the following statements:\n1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products.\n2. Fuel cells can be used for powering buildings and not for small devices like laptop computers.\n3. Fuel cells produce electricity in the form of Alternating Current (AC).\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 32,
+    "topic": "Nanotechnology",
+    "year": 2015,
+    "question": "With reference to the use of nanotechnology in the health sector, which of the following statements is/are correct ?\n1. Targeted drug delivery is made possible by nanotechnology.\n2. Nanotechnology can largely contribute to gene therapy.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 33,
+    "topic": "Miscellaneous Technologies",
+    "year": 2015,
+    "question": "In the context of modern scientific research, consider the following statements about \"IceCube', a particle detector located at South Pole, which was recently in the news :\n1. It is the world's largest neutrino detector, encompassing a cubic kilometer of ice.\n2. It is a powerful telescope to search for dark matter.\n3. It is buried deep in the ice.\nWhich of the statements given above is/are correct ?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 34,
+    "topic": "Miscellaneous Technologies",
+    "year": 2015,
+    "question": "The term \"IndARC', sometimes in the news, is the name of",
+    "options": [
+      "an indigenously developed radar system inducted into Indian Defense",
+      "India's satellite to provide services to the countries of Indian Ocean Rim",
+      "a scientific establishment set up by India in Antarctic region",
+      "India's underwater observatory to scientifically study the Arctic region"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 35,
+    "topic": "Microorganisms",
+    "year": 2016,
+    "question": "Which of the following statements is/are correct?\nViruses can infect \n1. Bacteria \n2. Fungi \n3. Plants \nSelect the correct answer using the code given below.",
+    "options": ["1 and 2 only", "3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 36,
+    "topic": "Applications in Everyday Life",
+    "year": 2016,
+    "question": "With reference to pre-packaged items in India, as per the Food Safety and Standards (Packaging and Labeling) Regulations, 2011, it is mandatory for the manufacturer to put information on which of the following?\n1. List of ingredients including additives \n2. Nutrition information \n3. Recommendation, if any, made by the medical profession about the possibility of any allergic reactions \n4. Vegetarian/non-vegetarian \nSelect the correct answer using the code given below.",
+    "options": ["1, 2 and 3", "2, 3 and 4", "1, 2 and 4", "1 and 4 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 37,
+    "topic": "Space Technology",
+    "year": 2016,
+    "question": "With reference to \"Astrosat',' the astronomical observatory launched by India, which of the; following statements is/are correct?\n1. Other than the USA and Russia, India is the only country to have launched a similar observatory into space.\n2. Astrosat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 38,
+    "topic": "Space Technology",
+    "year": 2016,
+    "question": "Consider the following statements:\nThe Mangalyaan launched by ISRO \n1. is also called the Mars Orbiter Mission \n2. made India the second country to have a spacecraft orbit the Mars after USA \n3. made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt \nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 39,
+    "topic": "Space Technology",
+    "year": 2016,
+    "question": "What is \"Greased Lightning-10 (GL-10)', recently in the news?",
+    "options": [
+      "Electric plane tested by NASA",
+      "Solar-powered two-seater aircraft designed by Japan",
+      "Space observatory launched by China",
+      "Reusable rocket designed by ISRO"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 40,
+    "topic": "Communication Technologies",
+    "year": 2016,
+    "question": "With reference to \"LiFi', recently in the news, which of the following statements is/are correct?\n1. It uses light as the medium for high-speed data transmission.\n2. It is a wireless technology and is several times faster than \"WiFi'.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 41,
+    "topic": "Communication Technologies",
+    "year": 2016,
+    "question": "\"Project Loon', sometimes seen in the news, is related to",
+    "options": [
+      "waste management technology",
+      "wireless communication technology",
+      "solar power production technology",
+      "water conservation technology"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 42,
+    "topic": "Biotechnology",
+    "year": 2016,
+    "question": "In the context of the developments in Bioinformatics, the term \"transcriptome', sometimes seen in the news, refers to",
+    "options": [
+      "a range of enzymes used in genome editing",
+      "the full range of mRNA molecules expressed by an organism",
+      "the description of the mechanism of gene expression",
+      "a mechanism of genetic mutations taking place in cells"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 43,
+    "topic": "Defence Technology",
+    "year": 2016,
+    "question": "Which one of the following is the best description of \"INS Astradharini', that was in the news recently?",
+    "options": [
+      "Amphibious warfare ship",
+      "Nuclear-powered submarine",
+      "Torpedo launch and recovery vessel",
+      "Nuclear-powered aircraft carrier"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 44,
+    "topic": "Energy-Related Technology",
+    "year": 2016,
+    "question": "India is an important member of the \"International Thermonuclear Experimental Reactor'.\nIf this experiment succeeds, what is the immediate advantage for India?",
+    "options": [
+      "It can use thorium in place of uranium for power generation.",
+      "It attained a global role in satellite-navigation.",
+      "It can drastically improve the efficiency of its fission reactors in power generation.",
+      "It can build fusion reactors for power generation."
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 45,
+    "topic": "Diseases",
+    "year": 2017,
+    "question": "Consider the following statements:\n1. In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue.\n2. Sexual transmission of Zika virus disease is possible.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 46,
+    "topic": "Applications in Everyday Life",
+    "year": 2017,
+    "question": "Consider the following pairs:\nUnwanted or controversial chemicals likely to Commonly used/consumed materials be found in them \n1. Lipstick Lead \n2. Soft Drinks Brominated Vegetable Oils \n3. Chinese Fast Food Monosodium Glutamate Which of the pairs given above is/are correctly matched?",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 47,
+    "topic": "Space Science",
+    "year": 2017,
+    "question": "The terms \"Event Horizon', \"Singularity', \"String Theory' and \"Standard Model' are sometimes seen in the news in the context of",
+    "options": [
+      "Observation and understanding of the Universe",
+      "Study of the solar and the lunar eclipses",
+      "Placing satellites in the orbit of the Earth",
+      "Origin and evolution of living organisms on the earth"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 48,
+    "topic": "Space Technology",
+    "year": 2017,
+    "question": "What is the purpose of \"evolved Laser Interferometer Space Antenna (eLISA)' project?",
+    "options": [
+      "To detect neutrinos",
+      "To detect gravitational waves",
+      "To detect the effectiveness of missile defence system",
+      "To study the effect of solar flares on our communication system"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 49,
+    "topic": "Electronic Devices",
+    "year": 2017,
+    "question": "Organic Light Emitting Diodes (OLEDs) are used to create digital display in many devices.\nWhat are the advantages of OLED displays over Liquid Crystal displays?\n1. OLED displays can be fabricated on flexible plastic substrates.\n2. Roll-up displays embedded in clothing can be made using OLEDs.\n3. Transparent displays are possible using OLEDs.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3",
+      "None of the above statements is correct"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 50,
+    "topic": "Information Technology",
+    "year": 2017,
+    "question": "In India, it is legally mandatory for which of the following to report on cyber security incidents?\n1. Service providers \n2. Data centers \n3. Body corporate \nSelect the correct answer using the code given below:",
+    "options": ["1 only", "1 and 2 only", "3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 51,
+    "topic": "Biotechnology",
+    "year": 2017,
+    "question": "What is the application of Somatic Cell Nuclear Transfer Technology?",
+    "options": [
+      "Production of biolarvicides",
+      "Manufacture of biodegradable plastics",
+      "Reproductive cloning of animals",
+      "Production of organisms free of diseases"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 52,
+    "topic": "Biotechnology",
+    "year": 2017,
+    "question": "With reference to agriculture in India, how can the technique of \"genome sequencing', often seen in the news, be used in the immediate future?\n1. Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants.\n2. This technique helps in reducing the time required to develop new varieties of crop plants.\n3. It can be used to decipher the host-pathogen relationships in crops.\nSelect the correct answer using the code given below:",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 53,
+    "topic": "Diseases",
+    "year": 2018,
+    "question": "Consider the following:\n1. Birds \n2. Dust blowing \n3. Rain \n4. Wind blowing Which of the above spread plant diseases?",
+    "options": [
+      "1 and 3 only",
+      "3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 54,
+    "topic": "Space Science",
+    "year": 2018,
+    "question": "Consider the following statements:\n1. Light is affected by gravity.\n2. The Universe is constantly expanding.\n3. Matter warps its surrounding space-time.\nWhich of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?",
+    "options": ["1 and 2 only", "3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 55,
+    "topic": "Space Technology",
+    "year": 2018,
+    "question": "In which of the following areas can GPS technology be used?\n1. Mobile phone operations \n2. Banking operations \n3. Controlling the power grids \nSelect the correct answer using the code given below:",
+    "options": ["1 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 56,
+    "topic": "Space Technology",
+    "year": 2018,
+    "question": "With reference to India's satellite launch vehicles, consider the following statements:\n1. PSLVs launch the satellite useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.\n2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location in Earth.\n3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3", "1 and 2", "3 only"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 57,
+    "topic": "Space Technology",
+    "year": 2018,
+    "question": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:\n1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.\n2. IRNSS covers entire India and about 5500 sq.\nkm beyond its borders.\n3. India will have its own satellite navigation system with full global coverage by the middle of \n2019. \nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", ""],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 58,
+    "topic": "Information Technology",
+    "year": 2018,
+    "question": "When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically.\nThe smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank.\nAfter you take some groceries from your refrigerator for making breakfast, it recognizes the shortage of stock in it and places an order for the supply of fresh grocery items.\nWhen you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically.\nOn your way to the office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly.\nIn the context of emerging communication technologies, which one of the following terms best applies to the above scenario?",
+    "options": [
+      "Border Gateway Protocol",
+      "Internet of Things",
+      "Internet Protocol",
+      "Virtual Private Network"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 59,
+    "topic": "Information Technology",
+    "year": 2018,
+    "question": "The identity platform \"Aadhaar' provides open \"Application Programming Interfaces (APIs)\".\nWhat does it imply?\n1. It can be integrated into any electronic device.\n2. Online authentication using iris is possible.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 60,
+    "topic": "Information Technology",
+    "year": 2018,
+    "question": "Which of the following is/are the aim/aims of the \"Digital India\" Plan of the Government of India?\n1. Formation of India's own Internet companies like China did.\n2. Establish a policy framework to encourage overseas multinational corporations that collect Big Data to build their large data centers within our national geographical boundaries.\n3. Connect many of our villages to the Internet and bring Wi-Fi to many of our schools, public places and major tourist centers.\nSelect the correct answer using the code given below:",
+    "options": ["1 and 2 only", "3 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 61,
+    "topic": "Information Technology",
+    "year": 2018,
+    "question": "The terms \"WannaCry, Petya and EternalBlue' sometimes mentioned in the news recently are related to",
+    "options": [
+      "Exoplanets",
+      "Cryptocurrency",
+      "Cyber attacks",
+      "Mini satellites"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 62,
+    "topic": "Biotechnology",
+    "year": 2018,
+    "question": "With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements:\n1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.\n2. GM mustard has the genes that allow the plant cross-pollination and hybridization.\n3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 3 only", "2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 63,
+    "topic": "Defence Technology",
+    "year": 2018,
+    "question": "What is \"Terminal High Altitude Area Defence (THAAD)\", sometimes seen in the news?",
+    "options": [
+      "An Israeli radar system",
+      "India's indigenous anti-missile programme",
+      "An American anti-missile system",
+      "A defence collaboration between Japan and South Korea"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 64,
+    "topic": "Miscellaneous Technologies",
+    "year": 2018,
+    "question": "\"3D printing\" has applications in which of the following?\n1. Preparation of confectionery items \n2. Manufacture of bionic ears \n3. Automotive industry \n4. Reconstructive surgeries \n5. Data processing technologies \nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4 only",
+      "2, 3 and 5 only",
+      "1 and 4 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 65,
+    "topic": "Miscellaneous Technologies",
+    "year": 2018,
+    "question": "Consider the following pairs:\nTerms sometimes see in news Context/Topic \n1. Belle II experiment Artificial Intelligence \n2. Blockchain technology Digital/Cryptocurrency \n3. CRISPR - Cas9 Particle Physics Which of the pairs given above is/are correctly matched?",
+    "options": ["1 and 3 only", "2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 66,
+    "topic": "Diseases",
+    "year": 2019,
+    "question": "Which one of the following statements is not correct?",
+    "options": [
+      "Hepatitis B virus is transmitted much like HIV.",
+      "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+      "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+      "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 67,
+    "topic": "Space Science",
+    "year": 2019,
+    "question": "Recently, scientists observed the merger of giant \"blackholes' billions of light-years away from the Earth.\nWhat is the significance of this observation?",
+    "options": [
+      "\"Higgs boson particles' were detected.",
+      "\"Gravitational waves' were detected.",
+      "Possibility of inter-galactic space travel through \"wormhole' was confirmed.",
+      "It enabled the scientists to understand \"singularity'."
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 68,
+    "topic": "Electronic Devices",
+    "year": 2019,
+    "question": "In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices?\n1. Location identification of a person \n2. Sleep monitoring of a person \n3. Assisting the hearing impaired person \nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 69,
+    "topic": "Communication Technologies",
+    "year": 2019,
+    "question": "With reference to communications technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?\n1. LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G.\n2. TE is data-only technology and VoLTE is voice-only technology.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 70,
+    "topic": "Communication Technologies",
+    "year": 2019,
+    "question": "For the measurement/estimation of which of the following are satellite images/remote sensing data used?\n1. Chlorophyll content in the vegetation of a specific location \n2. Greenhouse gas emissions from rice paddies of a specific location \n3. Land surface temperatures of a specific location \nSelect the correct answer using the code given below.",
+    "options": ["1 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 71,
+    "topic": "Information Technology",
+    "year": 2019,
+    "question": "Consider the following statements:\nA digital signature is \n1. an electronic record that identifies the certifying authority issuing it \n2. used to serve as a proof of identity of an individual to access information or serve on Internet \n3. an electronic method of signing an electronic document and ensuring that the original content is unchanged \nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 72,
+    "topic": "Biotechnology",
+    "year": 2019,
+    "question": "With reference to the recent developments in science, which one of the following statements is not correct?",
+    "options": [
+      "Functional chromosomes can be created by joining segments of DNA taken from cells of different species.",
+      "Pieces of artificial functional DNA can be created in laboratories.",
+      "A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.",
+      "Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes."
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 73,
+    "topic": "Biotechnology",
+    "year": 2019,
+    "question": "RNA interference (RNAi)' technology has gained popularity in the last few years.\nWhy?\n1. It is used in developing gene silencing therapies.\n2. It can be used in developing therapies for the treatment of cancer.\n3. It can be used to develop hormone replacement therapies.\n4. It can be used to produce crop plants that are resistant to viral pathogens.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1 and 4 only"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 74,
+    "topic": "Biotechnology",
+    "year": 2019,
+    "question": "What is Cas9 protein that is often mentioned in news?",
+    "options": [
+      "A molecular scissors used in targeted gene editing",
+      "A biosensor used in the accurate detection of pathogens in patients",
+      "A gene that makes plants pest-resistant",
+      "A herbicidal substance synthesized in genetically modified crops"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 75,
+    "topic": "Biotechnology",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent.\n2. A person's genome can be edited before birth at the early embryonic stage.\n3. Human induced pluripotent stem cells can be injected into the embryo of a pig.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 and 3 only", "2 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 76,
+    "topic": "Health-Related Developments",
+    "year": 2019,
+    "question": "Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India?\n1. Genetic predisposition of some people \n2. Taking incorrect doses of antibiotics to cure diseases \n3. Using antibiotics in livestock farming \n4. Multiple chronic diseases in some people \nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 77,
+    "topic": "Governance in Science & Technology",
+    "year": 2019,
+    "question": "Consider the following statements:\n1. According to the Indian Patents Act, a biological process to create a seed can be patented in India.\n2. In India, there is no Intellectual Property Appellate Board.\n3. Plant varieties are not eligible in the patented in India.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 3 only", "2 and 3 only", "3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 78,
+    "topic": "Governance in Science & Technology",
+    "year": 2019,
+    "question": "Atal Innovation Mission is set up under the",
+    "options": [
+      "Department of Science and Technology",
+      "Ministry of Labour and Employment",
+      "NITI Aayog",
+      "Ministry of Skill Development and Entrepreneurship"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 79,
+    "topic": "Miscellaneous Technologies",
+    "year": 2019,
+    "question": "In the context of digital technologies for entertainment, consider the following statements:\n1. In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out.\n2. In Virtual Reality (VR), images generated from a computer are projected onto real-life objects or surroundings.\n3. AR allows individuals to be present in the world and improves the experience using the camera of smart-phones or PC.\n4. VR closes the world, and transposes an individual, providing complete immersion experience.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2 only", "3 and 4 only", "1, 2 and 3 only", "4 only"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 80,
+    "topic": "Heredity & Evolution",
+    "year": 2019,
+    "question": "The word Denisovan is sometimes mentioned in media in reference to",
+    "options": [
+      "fossils of a kind of dinosaurs",
+      "an early human species",
+      "a cave system found in North-East India",
+      "a geological period in the history of Indian subcontinent"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 81,
+    "topic": "Cell Biology",
+    "year": 2020,
+    "question": "Which of the following statements are correct regarding the general difference between plant and animal cells?\n1. Plant cells have cellulose cell walls whilst animal cells do not.\n2. Plant cells do not have plasma membrane unlike animal cells which do.\n3. Mature plant cell has one large vacuole whilst animal cell has many small vacuoles.\nSelect the correct answer using the code given below.",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 82,
+    "topic": "Space Technology",
+    "year": 2020,
+    "question": "Consider the following activities:\n1. Spraying pesticides on a crop field \n2. Inspecting the craters of active volcanoes \n3. Collecting breath samples from spouting whales for DNA analysis At the present level of technology, which of the above activities can be successfully carried out by using drones?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 83,
+    "topic": "Space Technology",
+    "year": 2020,
+    "question": "\"The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometers long, with lasers shining between the craft.\" The experiment in question refers to",
+    "options": ["Voyager-2", "New Horizons", "LISA Pathfinder", "Evolved LISA"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 84,
+    "topic": "Communication Technologies",
+    "year": 2020,
+    "question": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?\n1. VLC uses electromagnetic spectrum wavelengths 375nm to 780 nm \n2. VLC is known as long-range optical wireless communication.\n3. VLC can transmit large amounts of data faster than Bluetooth \n4. VLC has no electromagnetic interference \nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 85,
+    "topic": "Information Technology",
+    "year": 2020,
+    "question": "With the present state of development, Artificial Intelligence can effectively do which of the following?\n1. Bring down electricity consumption in industrial units \n2. Create meaningful short stories and songs \n3. Disease diagnosis \n4. Text-to-Speech Conversion \n5. Wireless transmission of electrical energy \nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 3 and 4 only",
+      "2, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 86,
+    "topic": "Information Technology",
+    "year": 2020,
+    "question": "With reference to \"Blockchain Technology\" consider the following statements:\n1. It is public ledger that everyone we Inspect, but which no single user controls \n2. The structure and design of blockchain is such that all the data in it is about crypto currency only.\n3. Applications that depend on basic features of blockchain can be developed without anybody's permission.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "1 and 2 only", "2 only", "1 and 3 only"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 87,
+    "topic": "Information Technology",
+    "year": 2020,
+    "question": "In India, the term \"Public Key Infrastructure\" is used in the context of",
+    "options": [
+      "Digital security infrastructure",
+      "Food security infrastructure",
+      "Health care and education infrastructure",
+      "Telecommunication and transportation infrastructure"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 88,
+    "topic": "Biotechnology",
+    "year": 2020,
+    "question": "In the context of recent advances in human reproductive technology, \"Pronuclear Transfer\" is used for",
+    "options": [
+      "fertilization of egg in vitro by the donor sperm",
+      "genetic modification of sperm producing cells",
+      "development of stem cells into functional embryos",
+      "prevention of mitochondrial diseases in offspring"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 89,
+    "topic": "Health-Related Developments",
+    "year": 2020,
+    "question": "What is the importance of using Pneumococcal Conjugate Vaccines in India?\n1. These vaccines are effective against pneumonia as well as meningitis and sepsis.\n2. Dependence on antibiotics that are not effective against drug resistant bacteria can be reduced.\n3. These vaccines have no side effects and cause no allergic reactions.\nSelect the correct answer using the code given below.",
+    "options": ["1 only", "1 and 2 only", "3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 90,
+    "topic": "Energy-Related Technology",
+    "year": 2020,
+    "question": "With reference to solar water pumps consider the following statements:\n1. Solar power can be used for running surface pumps and not for submersible pumps.\n2. Solar power can be used for running centrifugal pumps and not the ones with piston.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 91,
+    "topic": "Nanotechnology",
+    "year": 2020,
+    "question": "When reference to carbon nanotubes, consider the following statements:\n1. They can be used as carriers of drugs and antigens in the human body.\n2. They can be made into artificial blood capillaries for an injured part of human body.\n3. They can be used in biochemical sensors.\n4. Carbon nanotubes are biodegradable.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 92,
+    "topic": "Miscellaneous Technologies",
+    "year": 2020,
+    "question": "With reference to the current trends in the cultivation of sugarcane in India, consider the following statements:\n1. A substantial saving in seed material is made when \"bud chip settlings' are raised in a nursery and transplanted in the main field.\n2. When direct planting of seeds is done, the germination percentage is better with single-budded setts as compared to setts with many buds.\n3. If bad weather conditions prevail when seeds are directly planted, single-budded seeds have better survival as compared to large setts.\n4. Sugarcane can be cultivated using settlings prepared from tissue culture.\nWhich of the statements given above is/are correct?",
+    "options": ["1 and 2 only", "3 only", "1 and 4 only", "2, 3 and 4 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 93,
+    "topic": "Microorganisms",
+    "year": 2021,
+    "question": "Consider the following:\n1. Bacteria \n2. Fungi \n3. Virus Which of the above can be cultured in artificial/synthetic medium?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 94,
+    "topic": "Diseases",
+    "year": 2021,
+    "question": "Consider the following statements:\n1. Adenoviruses have single-stranded DNA genomes whereas retroviruses have double- stranded DNA genomes.\n2. Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 95,
+    "topic": "Properties of Matter",
+    "year": 2021,
+    "question": "In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?\n1. Area of the hole in the lid \n2. Temperature of the flame \n3. Weight of the lid \nSelect the correct answer using the code given below.",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 96,
+    "topic": "Properties of Matter",
+    "year": 2021,
+    "question": "Water can dissolve more substances than any other liquid because",
+    "options": [
+      "it is dipolar in nature",
+      "it is a good conductor of heat",
+      "it has high value of specific heat",
+      "it is an oxide of hydrogen"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 97,
+    "topic": "Applications in Everyday Life",
+    "year": 2021,
+    "question": "Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics?",
+    "options": [
+      "Low-density polyethylene",
+      "Polycarbonate",
+      "Polyethylene terephthalate",
+      "Polyvinyl chloride"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 98,
+    "topic": "Applications in Everyday Life",
+    "year": 2021,
+    "question": "Triclosan, considered harmful when exposed to high levels for a long time, is most likely present in which of the following?",
+    "options": [
+      "Food preservatives",
+      "Fruit-ripening substances",
+      "Reused plastic containers",
+      "Toiletries"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 99,
+    "topic": "Space Science",
+    "year": 2021,
+    "question": "Which one of the following is a reason why astronomical distances are measured in light- years?",
+    "options": [
+      "Distances among stellar bodies do not change.",
+      "Gravity of stellar bodies does not change.",
+      "Light always travels in straight line.",
+      "Speed of light is always same."
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 100,
+    "topic": "Electronic Devices",
+    "year": 2021,
+    "question": "With reference to street-lighting, how do sodium lamps differ from LED lamps?\n1. Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps.\n2. As street-lights, sodium lamps have longer life span than LED lamps.\n3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.\nSelect the correct answer using the code given below.",
+    "options": ["3 only", "2 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 101,
+    "topic": "Biotechnology",
+    "year": 2021,
+    "question": "In the context of hereditary diseases, consider the following statements:\n1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of egg.\n2. A child inherits mitochondrial diseases entirely from mother and not from father.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 102,
+    "topic": "Biotechnology",
+    "year": 2021,
+    "question": "Bollgard I and Bollgard II technologies are mentioned in the context of",
+    "options": [
+      "clonal propagation of crop plants",
+      "developing genetically modified crop plants",
+      "production of plant growth substances",
+      "production of biofertilizers"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 103,
+    "topic": "Biotechnology",
+    "year": 2021,
+    "question": "With reference to recent developments regarding \"Recombinant Vector Vaccine', consider the following statements:\n1. Genetic engineering is applied in the development of these vaccines.\n2. Bacteria and viruses are used as vectors.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 104,
+    "topic": "Biotechnology",
+    "year": 2021,
+    "question": "The term \"ACE2' is talked about in the context of",
+    "options": [
+      "genes introduced in the genetically modified plants",
+      "development of India's own satellite navigation system",
+      "radio collars for wildlife tracking",
+      "spread of viral diseases"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 105,
+    "topic": "Microorganisms",
+    "year": 2022,
+    "question": "Consider the following statements:\n1. Biofilms can form on medical implants within human tissues.\n2. Biofilms can form on food and food processing surfaces.\n3. Biofilms can exhibit antibiotic resistance.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 106,
+    "topic": "Immune System",
+    "year": 2022,
+    "question": "Which one of the following statements best describes the role of B cells and T cells in the human body?",
+    "options": [
+      "They protect the body from environmental allergens.",
+      "They alleviate the body's pain and inflammation.",
+      "They act as immunosuppressants in the body.",
+      "They protect the body from the diseases caused by pathogens."
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 107,
+    "topic": "Applications in Everyday Life",
+    "year": 2022,
+    "question": "Consider the following statements in respect of probiotics:\n1. Probiotics are made of both bacteria and yeast.\n2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.\n3. Probiotics help in the digestion of milk sugars.\nWhich of the statements given above is/are correct ?",
+    "options": ["1 only", "2 only", "1 and 3 only", "2 and 3 only"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 108,
+    "topic": "Space Science",
+    "year": 2022,
+    "question": "If a major solar storm (solar-flare) reaches the Earth, which of the following are the possible effects on the Earth?\n1. GPS and navigation systems could fail \n2. Tsunamis could occur at equatorial regions \n3. Power grids could be damaged \n4. Intense auroras could occur over much of the Earth \n5. Forest fires could take place over much of the planet \n6. Orbits of the satellites could be disturbed \n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted \nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2, 4 and 5 only",
+      "2, 3, 5, 6 and 7 only",
+      "1, 3, 4, 6 and 7 only",
+      "1, 2, 3, 4, 5, 6 and"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 109,
+    "topic": "Space Technology",
+    "year": 2022,
+    "question": "Which one of the following statements best reflects the idea behind the  \"Fractional Orbital Bombardment System\" often talked about in media ?",
+    "options": [
+      "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.",
+      "A spacecraft lands on another planet after making several orbital motions.",
+      "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.",
+      "A spacecraft moves along a comet with the same speed and places a probe on its surface."
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 110,
+    "topic": "Communication Technologies",
+    "year": 2022,
+    "question": "Consider following communication the technologies:\n1. Closed-circuit Television \n2. Radio Frequency Identification \n3. Wireless Local Area Network Which of the above are considered Short-Range devices/technologies?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 111,
+    "topic": "Information Technology",
+    "year": 2022,
+    "question": "Consider the following:\n1. Aarogya Setu \n2. CoWIN \n3. DigiLocker \n4. DIKSHA Which of the above are built on top of open-source digital platforms?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 112,
+    "topic": "Information Technology",
+    "year": 2022,
+    "question": "With reference to Web 3.0, consider the following statements:\n1. Web 3.0 technology enables people to control their own data.\n2. In the Web 3.0 world, there can be blockchain based social networks.\n3. Web 3.0 is operated by users collectively rather than a corporation.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 113,
+    "topic": "Information Technology",
+    "year": 2022,
+    "question": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\n1. SaaS buyers can customise the user interface and can change data fields.\n2. SaaS users can access their data through their mobile devices.\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\nWhich of the statements given above are correct ?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 114,
+    "topic": "Information Technology",
+    "year": 2022,
+    "question": "Which one of the following-is the context in which the term \"qubit\" is mentioned ?",
+    "options": [
+      "Cloud Services",
+      "Quantum Computing",
+      "Visible Light Communication Technologies",
+      "Wireless Communication Technologies"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 115,
+    "topic": "Information Technology",
+    "year": 2022,
+    "question": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 116,
+    "topic": "Biotechnology",
+    "year": 2022,
+    "question": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.\n2. Sputnik V vaccine is manufactured using vector based platform.\n3. COVAXIN is an inactivated pathogen based vaccine.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 117,
+    "topic": "Biotechnology",
+    "year": 2022,
+    "question": "Consider the following statements:\nDNA Barcoding can be a tool to:\n1. assess the age of a plant or animal.\n2. distinguish among species that look alike.\n3. identify undesirable animal or plant materials in processed foods.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "3 only", "1 and 2 only", "2 and 3 only"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 118,
+    "topic": "Nanotechnology",
+    "year": 2022,
+    "question": "Consider the following statements:\n1. Other than those made by humans, nanoparticles do not exist in nature.\n2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics.\n3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "3 only", "1 and 2 only", "2 and 3 only"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 119,
+    "topic": "Space Science",
+    "year": 2023,
+    "question": "Consider the following pairs:\nObjects in space Description \n1. Cepheids :\nGiant clouds of dust and gas in space \n2. Nebulae :\nStars which brighten and dim periodically \n3. Pulsars :\nNeutron stars that are formed when massive stars run out of fuel and collapse How many of the above pairs are correctly matched?",
+    "options": ["Only one", "Only two", "All three", ""],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 120,
+    "topic": "Space Technology",
+    "year": 2023,
+    "question": "Which one the following countries has its own Satellite Navigation System?",
+    "options": ["Australia", "Canada", "Israel", "Japan"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 121,
+    "topic": "Biotechnology",
+    "year": 2023,
+    "question": "Aerial metagenomics' best refers to which one of the following situations?",
+    "options": [
+      "Collecting DNA samples from air in a habitat at one go",
+      "Understanding the genetic makeup of avian species of a habitat",
+      "Using air-borne devices to collect blood samples from moving animals",
+      "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 122,
+    "topic": "Biotechnology",
+    "year": 2023,
+    "question": "\"Microsatellite DNA' is used in the case of which one of the following?",
+    "options": [
+      "Studying the evolutionary relationships among various species of fauna",
+      "Stimulating \"stem cells' to transform into diverse functional tissues",
+      "Promoting clonal propagation of horticultural plants",
+      "Assessing the efficacy of drugs by conducting series of drug trials in a population"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 123,
+    "topic": "Defence Technology",
+    "year": 2023,
+    "question": "Consider the following statements:\n1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket-powered only in the initial phase of flight.\n2. Agni-V is a medium-range supersonic cruise missile, while BrahMos is a solid-fuelled intercontinental ballistic missile.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 124,
+    "topic": "Miscellaneous Technologies",
+    "year": 2023,
+    "question": "Consider the following actions:\n1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously \n2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive \n3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode.\nIn how many of the above actions is the function of accelerometer required?",
+    "options": ["Only one", "Only two", "All three", ""],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 125,
+    "topic": "Miscellaneous Technologies",
+    "year": 2023,
+    "question": "\"Wolbachia method' is sometimes talked about with reference to which one of the following?",
+    "options": [
+      "Controlling the viral diseases spread by mosquitoes",
+      "Converting crop residues into packing material",
+      "Producing biodegradable plastics",
+      "Producing biochar from thermochemical conversion of biomass"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 126,
+    "topic": "Miscellaneous Technologies",
+    "year": 2023,
+    "question": "Consider the following statements:\n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.\n2. Carbon fibres once used cannot be recycled.\nWhich of the statements given above is/are correct?",
+    "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 127,
+    "topic": "Human Body",
+    "year": 2024,
+    "question": "Which one of the following is synthesized in the human body that dilates blood vessels and increases blood flow?",
+    "options": [
+      "Nitric oxide",
+      "Nitrous oxide",
+      "Nitrogen dioxide",
+      "Nitrogen pentoxide"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 128,
+    "topic": "Space Science",
+    "year": 2024,
+    "question": "Consider the following statements:\nSmart and Effective \n1. Statement-I:\nGiant stars live much longer than dwarf stars.\nNotes Making for UPSC CSE Statement-II:\nCompared to dwarf stars, giant stars have a greater rate of nuclear reactions.\nWhich one of the following is correct in respect of the above statements?\nPrinciples and Strategies",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-I Statement-II explains",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Why Notes Making? Statement-I Note-making for the UPSC exam is a strategic tool that significantly enhances an aspirant's ability to understand, retain, and",
+      "Statement-I is correct, but Statement-II is incorrect revise the vast curriculum effecï¿½vely. This personalized study aid helps in breaking down complex topics into digesï¿½ble pieces,",
+      "Statement-I is incorrect, but Statement-II is correct facilitaï¿½ng easier recollecï¿½on and efficient last-minute revisions. Principles of Notes Making"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 129,
+    "topic": "Communication Technologies",
+    "year": 2024,
+    "question": "Consider the following activities:\n1. Identification of narcotics on passengers at airports or in aircraft \n2. Monitoring of precipitation \n3. Tracking the migration of animals In how many of the above activities can the radars be used?",
+    "options": ["Only one", "Only two", "All three", ""],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 130,
+    "topic": "Information Technology",
+    "year": 2024,
+    "question": "Which one of the following words/phrases is most appropriately used to denote \"an interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items\"?",
+    "options": [
+      "Big data analytics",
+      "Cryptography",
+      "Metaverse",
+      "Virtual matrix"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 131,
+    "topic": "Defence Technology",
+    "year": 2024,
+    "question": "Consider the following aircraft:\n1. Rafael \n2. MiG-29 \n3. Tejas MK-1 How many of the above are considered fifth generation fighter aircraft?",
+    "options": ["Only one", "Only two", "All three", ""],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 132,
+    "topic": "Energy-Related Technology",
+    "year": 2024,
+    "question": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements:\n1. RTGs are miniature fission reactors.\n2. RTGs are used for powering the onboard systems of spacecraft.\n3. RTGs can use Plutonium-238, which is a by-product of weapons development.\nWhich of the statements given above are correct?",
+    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "1, 2 and 3"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 133,
+    "topic": "Miscellaneous Technologies",
+    "year": 2024,
+    "question": "In which of the following are hydrogels used?\n1. Controlled drug delivery in patients \n2. Mobile air-conditioning systems \n3. Preparation of industrial lubricants \nSelect the correct answer using the code given below:",
+    "options": ["1 only", "1 and 2 only", "2 and 3 only", "1, 2 and 3"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 134,
+    "topic": "Space Technology",
+    "year": 2025,
+    "question": "Consider the following space missions:\nI. Axiom-4\nII. SpaDeX\nIII. Gaganyaan\nHow many of the space missions given above encourage and support micro-gravity research?",
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 135,
+    "topic": "Defence Technology",
+    "year": 2025,
+    "question": "What is the common characteristic of the chemical substances generally known as CL-20, HMX and LLM-105, which are sometimes talked about in media?",
+    "options": [
+      "These are alternatives to hydro-fluorocarbon refrigerants",
+      "These are explosives in military weapons",
+      "These are high-energy fuels for cruise missiles",
+      "These are fuels for rocket propulsion"
+    ],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 136,
+    "topic": "Energy & Fuels",
+    "year": 2025,
+    "question": "In the context of electric vehicle batteries, consider the following elements:\nI. Cobalt\nII. Graphite\nIII. Lithium\nIV. Nickel\nHow many of the above usually make up battery cathodes?",
+    "options": ["Only one", "Only two", "Only three", "All the four"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 137,
+    "topic": "General Science - Biology",
+    "year": 2025,
+    "question": "Consider the following statements:\nI. No virus can survive in ocean waters.\nII. No virus can infect bacteria.\nIII. No virus can change the cellular transcriptional activity in host cells.\nWhich of the statements given above are correct?",
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 138,
+    "topic": "Energy & Fuels",
+    "year": 2025,
+    "question": "Consider the following substances:\nI. Ethanol\nII. Nitroglycerine\nIII. Urea\nCoal gasification technology can be used in the production of how many of them?",
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 139,
+    "topic": "Information Technology",
+    "year": 2025,
+    "question": "Consider the following statements:\nI. It is expected that Majorana 1 chip will enable quantum computing.\nII. Majorana 1 chip has been introduced by Amazon Web Services (AWS).\nIII. Deep learning is a subset of machine learning.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 140,
+    "topic": "Defence Technology",
+    "year": 2025,
+    "question": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements:\nI. All types of UAVs can do vertical landing.\nII. All types of UAVs can do automated hovering.\nIII. All types of UAVs can use battery only as a source of power supply.\nHow many of the statements given above are correct?",
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 141,
+    "topic": "Space Technology",
+    "year": 2025,
+    "question": "GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN?\nI. It is designed to provide additional accuracy and integrity.\nII. It will allow more uniform and high quality air traffic management.\nIII. It will provide benefits only in aviation but not in other modes of transportation.\nSelect the correct answer using the code given below.",
+    "options": ["I, II and III", "II and III only", "I only", "I and II only"],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 142,
+    "topic": "Biotechnology",
+    "year": 2025,
+    "question": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements:\nI. They are man-made proteins.\nII. They stimulate immunological function due to their ability to bind to specific antigens.\nIII. They are used in treating viral infections like that of Nipah virus.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 143,
+    "topic": "Energy & Fuels",
+    "year": 2025,
+    "question": "Consider the following types of vehicles:\nI. Full battery electric vehicles\nII. Hydrogen fuel cell vehicles\nIII. Fuel cell electric hybrid vehicles\nHow many of the above are considered as alternative (powertrain) vehicles?",
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "answer": "C",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 144,
+    "topic": "Miscellaneous Technologies",
+    "year": 2025,
+    "question": "Consider the following statements:\nI. Indian Railways have prepared a National Rail Plan (NRP) to create a future ready railway system by 2028.\nII. 'Kavach' is an Automatic Train Protection system developed in collaboration with Germany.\nIII. 'Kavach' system consists of RFID tags fitted on track in station section.\nWhich of the statements given above are not correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 145,
+    "topic": "General Science - Chemistry",
+    "year": 2025,
+    "question": "Consider the following statements:\nStatement I: Some rare earth elements are used in the manufacture of flat television screens and computer monitors.\nStatement II: Some rare earth elements have phosphorescent properties.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": "A",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  },
+  {
+    "id": 146,
+    "topic": "Defence Technology",
+    "year": 2025,
+    "question": "With reference to India's defence, consider the following pairs:\nAircraft type – Description\nI. Dornier-228 : Maritime patrol aircraft\nII. IL-76 : Supersonic combat aircraft\nIII. C-17 Globemaster III : Military transport aircraft\nHow many of the pairs given above are correctly matched?",
+    "options": ["Only one", "Only two", "All the three", "None"],
+    "answer": "B",
+    "learning_engine": {
+      "hint": "",
+      "explanation": "",
+      "logical_cue": "",
+      "elimination_trick": "",
+      "flashcards": []
+    }
+  }
+]

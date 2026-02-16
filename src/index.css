@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer components {
+  
+  /* --- 1. SUPER CARD (Question/Topic Cards) --- */
+  .super-card {
+    @apply bg-white border border-slate-200 p-5 rounded-2xl flex items-center justify-between 
+           transition-all duration-300 ease-out cursor-pointer relative overflow-hidden;
+    /* Soft shadow base */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+  }
+
+  .super-card:hover {
+    @apply border-red-500 -translate-y-1;
+    /* Red-tinted "Flash" shadow on hover */
+    box-shadow: 0 10px 15px -3px rgba(220, 38, 38, 0.08),
+               0 4px 6px -4px rgba(220, 38, 38, 0.08);
+  }
+
+  /* Red Hover Text Effect */
+  .super-card:hover h4 {
+    @apply text-red-600;
+  }
+
+  /* --- 2. SUPER SEARCH BAR --- */
+  .super-search {
+    @apply w-full bg-white border border-slate-200 rounded-2xl py-4 pl-12 pr-4 text-sm font-medium 
+           shadow-sm transition-all duration-300 outline-none;
+  }
+
+  .super-search:focus {
+    @apply border-red-500 ring-4 ring-red-500/10;
+  }
+}
+
+/* --- 3. ANIMATIONS FOR LEARNING ENGINE --- */
+/* These work with the keyframes defined in tailwind.config.js */
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.5s ease-out forwards;
+}
+
+/* 3D Flip Card Utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
